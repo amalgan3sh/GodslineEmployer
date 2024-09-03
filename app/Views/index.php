@@ -6,7 +6,7 @@
                <div class="my-acc-head">
 
                   <div class="section-title">
-                     <h2>God's Line Employer Survey</h2>
+                     <h2>God's Line - Employer Survey</h2>
                   </div>
                </div>
                <div class="row align-items-start">
@@ -51,7 +51,7 @@
                                     <path d="M5 9C4.44772 9 4 9.44772 4 10C4 10.5523 4.44772 11 5 11C5.55228 11 6 10.5523 6 10C6 9.44772 5.55228 9 5 9Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Property Preferences</b>
+                                 <b>Project Appeal</b>
                                  </span>
                               </a>
                            </li>
@@ -62,7 +62,7 @@
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M9.20711 7.20711C8.81658 7.59763 8.18342 7.59763 7.79289 7.20711C7.40237 6.81658 7.40237 6.18342 7.79289 5.79289L11.2929 2.29289C11.6834 1.90237 12.3166 1.90237 12.7071 2.29289L16.2071 5.79289C16.5976 6.18342 16.5976 6.81658 16.2071 7.20711C15.8166 7.59763 15.1834 7.59763 14.7929 7.20711L13 5.41421L13 15C13 15.5523 12.5523 16 12 16C11.4477 16 11 15.5523 11 15L11 5.41421L9.20711 7.20711Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Wellness Park Facilities</b>
+                                 <b>Feature Feedback</b>
                                  </span>
                               </a>
                            </li>
@@ -72,7 +72,7 @@
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M9.52275 8.93361C9.42172 9.17558 9.19391 9.3408 8.93252 9.36167L4.18325 9.74094C3.56183 9.79057 3.31039 10.5666 3.78461 10.9712L7.39904 14.0554C7.59925 14.2262 7.68672 14.4949 7.62542 14.7509L6.52045 19.3652C6.37552 19.9704 7.03337 20.4497 7.56505 20.1262L11.6365 17.649C11.86 17.5131 12.1406 17.5131 12.3642 17.649L16.4356 20.1262C16.9672 20.4497 17.6251 19.9704 17.4802 19.3652L16.3752 14.7509C16.3139 14.4949 16.4014 14.2262 16.6016 14.0554L20.216 10.9712C20.6902 10.5666 20.4388 9.79057 19.8174 9.74094L15.0681 9.36167C14.8067 9.3408 14.5789 9.17558 14.4779 8.93361L12.6463 4.54699C12.4067 3.97327 11.5939 3.97327 11.3544 4.54699L9.52275 8.93361ZM16.0179 7.43115L14.4918 3.77638C13.5679 1.56346 10.4328 1.56348 9.50877 3.77638L7.98275 7.43115L4.02404 7.74729C1.62712 7.9387 0.65727 10.9318 2.48641 12.4926L5.49492 15.0597L4.57544 18.8994C4.0164 21.234 6.55383 23.0826 8.60461 21.8348L12.0003 19.7688L15.396 21.8348C17.4468 23.0826 19.9842 21.2339 19.4252 18.8994L18.5057 15.0597L21.5142 12.4926C23.3434 10.9318 22.3735 7.9387 19.9766 7.74729L16.0179 7.43115Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Other Facilities</b>
+                                 <b>Environmental Responsibility</b>
                                  </span>
                               </a>
                            </li>
@@ -83,7 +83,7 @@
                                     <path d="M12.7071 7.29289C12.3166 6.90237 11.6834 6.90237 11.2929 7.29289L8.29289 10.2929C7.90237 10.6834 7.90237 11.3166 8.29289 11.7071C8.68342 12.0976 9.31658 12.0976 9.70711 11.7071L11 10.4142V16C11 16.5523 11.4477 17 12 17C12.5523 17 13 16.5523 13 16V10.4142L14.2929 11.7071C14.6834 12.0976 15.3166 12.0976 15.7071 11.7071C16.0976 11.3166 16.0976 10.6834 15.7071 10.2929L12.7071 7.29289Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Budget and Family Details</b>
+                                 <b>Community Involvement</b>
                                  </span>
                               </a>
                            </li>
@@ -95,7 +95,7 @@
                                     <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Interest in Additional Income</b>
+                                 <b>Overall Opinion</b>
                                  </span>
                               </a>
                            </li>
@@ -116,721 +116,392 @@
                   </div>
                   <div class="col-lg-9 col-md-8 col-12">
                      <div class="my-acc-rightbar">
-
-                        <div id="tab-2" class="my-acc-right-content">
-                           <div class="section-title"><br><br>
-                              <h2>Introduction</h2>
-                           </div>
-                           <div class="form-wrapper">
-                              <form id="form-tab-2" novalidate>
-                                 <div class="form-container">
-                                    <div class="form-group">
-                                       <label for="whoAreYou">Who are you?<sup aria-hidden="true">*</sup></label>
-                                       <select id="whoAreYou" name="whoAreYou" class="form-control" required>
-                                          <option value="" disabled selected>Select an option</option>
-                                          <option value="active-senior-living">Active Senior Living</option>
-                                          <option value="returning-home">Returning Home</option>
-                                          <option value="early-retirement">Early Retirement</option>
-                                          <option value="investment-property">Investment Property</option>
-                                          <option value="second-home">Second Home</option>
-                                          <option value="nri-vacation-home">NRI Vacation Home</option>
-                                       </select>
-                                    </div>
-                                 </div>
-                              </form>
-                           </div>
+                     <div id="tab-2" class="my-acc-right-content">
+                        <div class="section-title">
+                           <br><br>
+                           <h2>Introduction</h2>
                         </div>
-
-
-                        <div id="tab-3" class="my-acc-right-content">
-                           <div class="section-title"><br><br>
-                              <h2>About Us (All fields are mandatory)</h2>
-                           </div>
-                           <div class="form-wrapper">
-                              <form id="form-tab-3">
-                                 <div class="form-container">
-                                    <div class="row">
-                                       <!-- First Name -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="firstName">First Name<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="firstName" class="form-control" placeholder="Enter first name" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Last Name -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="lastName">Last Name<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="lastName" class="form-control" placeholder="Enter last name" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Gender -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="gender">Gender<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="gender" name="gender" class="form-control" required>
-                                                <option value="" disabled selected>Select your gender</option>
-                                                <option value="male">Male</option>
-                                                <option value="female">Female</option>
-                                                <option value="other">Other</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Nationality -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="nationality">Nationality<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="nationality" class="form-control" placeholder="Enter nationality" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Age -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="age">Age<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="age" class="form-control" placeholder="Enter age" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Phone -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="phone">Phone<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="phone" class="form-control" placeholder="Enter phone number" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Email ID -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="email">Email ID<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="email" id="email" class="form-control" placeholder="Enter email ID" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Designation -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="designation">Designation<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="designation" class="form-control" placeholder="Enter designation" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Current Residential Location -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="currentLocation">Current Residential Location<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="currentLocation" class="form-control" placeholder="Enter current residential location" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Hometown -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="hometown">Hometown<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="hometown" class="form-control" placeholder="Enter hometown" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Project Location -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="projectLocation">Project Location<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="projectLocation" class="form-control" placeholder="Enter project location" required="">
-                                          </div>
-                                       </div>
-                                       <!-- Interested District -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="interestedDistrict">Interested District<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="interestedDistrict" class="form-control" placeholder="Enter interested district" required="">
-                                          </div>
-                                       </div>
-                                       <!-- How far from the city? -->
-                                       <div class="col-md-6 col-12">
-                                          <div class="form-group">
-                                             <label for="distanceFromCity">How far from the city?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="text" id="distanceFromCity" class="form-control" placeholder="Enter distance from the city" required="">
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <!-- <div class="form-container"> -->
-                                 <!-- <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end"> -->
-                                 <!-- <button class="btn-secondary back-btn-acc" type="button">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                        <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                    </svg>
-                                    Back 
-                                    </button> 
-                                    <button class="btn continue-btn" type="button" onclick="scrollToNextTab()">
-                                    Continue
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                        <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                    </svg>
-                                    </button>  -->
-                                 <!-- <script>
-                                    function scrollToNextTab() {
-                                        const form = document.getElementById('form-tab-3');
-                                        if (form) {
-                                            if (form.checkValidity()) {
-                                                // Scroll to the next section
-                                                document.getElementById('tab-4').scrollIntoView({ behavior: 'smooth' });
-                                            } else {
-                                                // If form is not valid, show validation error
-                                                form.reportValidity();
-                                            }
-                                        } else {
-                                            console.error('Form not found');
-                                        }
-                                    }
-                                    </script> -->
-                                 <!-- </div>  -->
-                                 <!-- </div> -->
-                              </form>
-                           </div>
+                        <div class="introduction">
+                           <p>Welcome to the survey for God's Line: The Nest Eco City! We are dedicated to creating a visionary and sustainable community where modern living meets nature. Our project aims to blend contemporary amenities with environmental stewardship, ensuring a harmonious living experience. Your feedback is crucial in helping us shape a community that reflects your needs and aspirations. Thank you for participating!</p>
                         </div>
+                        <!-- Removed the form since it's not needed -->
+                     </div>
 
 
-                        <div id="tab-4" class="my-acc-right-content">
-                           <div class="section-title"><br><br>
-                              <h2>Which type of house are you interested in?</h2>
-                           </div>
-                           <div class="form-wrapper">
-                              <form>
-                                 <div class="form-container">
-                                    <div class="row">
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="houseType">Please select a type of house<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="houseType" name="houseType" class="form-control" required onchange="handleHouseTypeChange()">
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="farmhouse">Farm House</option>
-                                                <option value="villa">Villa</option>
-                                                <option value="resort">Resort</option>
-                                                <option value="any-other">Any other</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <!-- Farm House Additional Fields -->
-                                 <div id="farmHouseFields" class="form-container" style="display: none;">
-                                    <div class="row">
-                                       <!-- Type of farm -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="farmType">Type of farm?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="farmType" name="farmType" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="flower">Flower</option>
-                                                <option value="fruits">Fruits</option>
-                                                <option value="other">Other</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- How many acres? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="acres">How many acres?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="acres" name="acres" class="form-control" placeholder="Enter number of acres" required>
-                                          </div>
-                                       </div>
-                                       <!-- Facility management needed? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="facilityManagement">Facility management needed?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="facilityManagement" name="facilityManagement" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Any additional services needed? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="additionalServices">Any additional services needed?<sup aria-hidden="true">*</sup>:</label>
-                                             <textarea id="additionalServices" name="additionalServices" class="form-control" placeholder="Describe any additional services you may need"></textarea>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <!-- Villa Additional Fields -->
-                                 <div id="villaFields" class="form-container" style="display: none;">
-                                    <div class="row">
-                                       <!-- How many bedrooms? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="bedrooms">How many bedrooms?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="bedrooms" name="bedrooms" class="form-control" placeholder="Enter number of bedrooms" required>
-                                          </div>
-                                       </div>
-                                       <!-- How many square feet? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="squareFeet">How many square feet?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="squareFeet" name="squareFeet" class="form-control" placeholder="Enter square feet" required>
-                                          </div>
-                                       </div>
-                                       <!-- Master bedroom size? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="masterBedroomSize">Master bedroom size?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="masterBedroomSize" name="masterBedroomSize" class="form-control" placeholder="Enter master bedroom size" required>
-                                          </div>
-                                       </div>
-                                       <!-- Living room size? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="livingRoomSize">Living room size?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="livingRoomSize" name="livingRoomSize" class="form-control" placeholder="Enter living room size" required>
-                                          </div>
-                                       </div>
-                                       <!-- Bedroom size? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="bedroomSize">Bedroom size?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="bedroomSize" name="bedroomSize" class="form-control" placeholder="Enter bedroom size" required>
-                                          </div>
-                                       </div>
-                                       <!-- Bathroom size? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="bathroomSize">Bathroom size?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="bathroomSize" name="bathroomSize" class="form-control" placeholder="Enter bathroom size" required>
-                                          </div>
-                                       </div>
-                                       <!-- Need swimming pool? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="swimmingPool">Need swimming pool?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="swimmingPool" name="swimmingPool" class="form-control" required onchange="handleSwimmingPoolChange()">
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Swimming pool size? (Only if Yes is selected) -->
-                                       <div id="poolSizeField" class="col-md-12 col-12" style="display: none;">
-                                          <div class="form-group">
-                                             <label for="poolSize">Swimming pool size?<sup aria-hidden="true">*</sup>:</label>
-                                             <input type="number" id="poolSize" name="poolSize" class="form-control" placeholder="Enter pool size">
-                                          </div>
-                                       </div>
-                                       <!-- Facility management needed? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="facilityManagementVilla">Facility management needed?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="facilityManagementVilla" name="facilityManagementVilla" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Need site visiting? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="siteVisiting">Need site visiting?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="siteVisiting" name="siteVisiting" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Online booking? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="onlineBooking">Online booking?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="onlineBooking" name="onlineBooking" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Real-time monitoring needed? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="realTimeMonitoring">Real-time monitoring needed?<sup aria-hidden="true">*</sup> (smart home facility):</label>
-                                             <select id="realTimeMonitoring" name="realTimeMonitoring" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <!-- Resort Additional Fields -->
-                                 <div id="resortFields" class="form-container" style="display: none;">
-                                    <div class="row">
-                                       <!-- What type of resort? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="resortType">What type of resort?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="resortType" name="resortType" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="traditional-resort">Traditional resort</option>
-                                                <option value="contemporary-resort">Contemporary resort</option>
-                                                <option value="bamboo-resort">Bamboo resort</option>
-                                                <option value="n-structure-resort">N structure resort</option>
-                                                <option value="tent-house">Tent house</option>
-                                                <option value="floating-resort">Floating resort</option>
-                                                <option value="pre-moduled-home">Pre-moduled home</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Need camp site? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="campSite">Need camp site?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="campSite" name="campSite" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Need pub? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="pub">Need pub?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="pub" name="pub" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Need bar? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="bar">Need bar?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="bar" name="bar" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Open restaurant? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="restaurant">Open restaurant?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="restaurant" name="restaurant" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Any additional suggestions? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="additionalSuggestions">Any additional suggestions?<sup aria-hidden="true">*</sup>:</label>
-                                             <textarea id="additionalSuggestions" name="additionalSuggestions" class="form-control" placeholder="Enter any additional suggestions"></textarea>
-                                          </div>
-                                       </div>
-                                       <!-- Need yoga or meditations? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="yogaMeditations">Need yoga or meditations?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="yogaMeditations" name="yogaMeditations" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- Need indoor games? -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="indoorGames">Need indoor games?<sup aria-hidden="true">*</sup>:</label>
-                                             <select id="indoorGames" name="indoorGames" class="form-control" required>
-                                                <option value="" disabled selected>Select an option</option>
-                                                <option value="yes">Yes</option>
-                                                <option value="no">No</option>
-                                             </select>
-                                          </div>
-                                       </div>
-                                       <!-- If any other, type your suggestions -->
-                                       <div class="col-md-12 col-12">
-                                          <div class="form-group">
-                                             <label for="otherSuggestions">If any other, type your suggestions:</label>
-                                             <textarea id="otherSuggestions" name="otherSuggestions" class="form-control" placeholder="Enter your suggestions"></textarea>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <!-- <div class="form-container">   
-                                    <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end">
-                                        <button class="btn-secondary back-btn-acc" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                                <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                            </svg>
-                                            Back 
-                                        </button> 
-                                        <button class="btn continue-btn" type="submit">
-                                            Continue
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                                <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                            </svg>
-                                        </button>
-                                    </div>
-                                    </div> -->
-                              </form>
-                           </div>
-                        </div>
-                        <script>
-                           function handleHouseTypeChange() {
-                              const houseType = document.getElementById('houseType').value;
-                              const farmHouseFields = document.getElementById('farmHouseFields');
-                              const villaFields = document.getElementById('villaFields');
-                              const resortFields = document.getElementById('resortFields');
+                     <div id="tab-3" class="my-acc-right-content">
+   <div class="section-title">
+      <br><br>
+      <h2>Personal Information</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-tab-3">
+         <div class="form-container">
+            <div class="row">
+               <!-- Name -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="name">Name<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="name" class="form-control" placeholder="Enter your name" required>
+                  </div>
+               </div>
+               <!-- Age -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="age">Age<sup aria-hidden="true">*</sup>:</label>
+                     <input type="number" id="age" class="form-control" placeholder="Enter your age" required>
+                  </div>
+               </div>
+               <!-- Gender -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="gender">Gender<sup aria-hidden="true">*</sup>:</label>
+                     <select id="gender" name="gender" class="form-control" required>
+                        <option value="" disabled selected>Select your gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Location -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="location">Location<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="location" class="form-control" placeholder="Enter your location" required>
+                  </div>
+               </div>
+               <!-- Email -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="email">Email<sup aria-hidden="true">*</sup>:</label>
+                     <input type="email" id="email" class="form-control" placeholder="Enter your email address" required>
+                  </div>
+               </div>
+               <!-- Phone Number -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="phone">Phone Number (Optional):</label>
+                     <input type="text" id="phone" class="form-control" placeholder="Enter your phone number">
+                  </div>
+               </div>
+            </div>
 
-                              
-                              if (houseType === 'villa') {
-                                 villaFields.style.display = 'block';
-                                 farmHouseFields.style.display = 'none';
-                                 resortFields.style.display = 'none';
-                                  
-                                  // Clear farmhouse and resort fields
-                                  document.getElementById('farmType').value = null;
-                                  document.getElementById('acres').value = null;
-                                  document.getElementById('facilityManagement').value = null;
-                                  document.getElementById('additionalServices').value = null;
+            <!-- Awareness Section -->
+            <div class="row">
 
-                                  document.getElementById('resortType').value = null;
-                                  document.getElementById('campSite').value = null;
-                                  document.getElementById('pub').value = null;
-                                  document.getElementById('bar').value = null;
-                                  document.getElementById('restaurant').value = null;
-                                  document.getElementById('additionalSuggestions').value = null;
-                                  document.getElementById('yogaMeditations').value = null;
-                                  document.getElementById('indoorGames').value = null;
-                                  document.getElementById('otherSuggestions').value = null;
+               <div class="col-12">
+                  <div class="form-group">
+                     <label for="awareness">How did you hear about God's Line - The Nest Eco City?</label>
+                     <select id="awareness" name="awareness" class="form-control" multiple required>
+                        <option value="website">Website</option>
+                        <option value="socialMedia">Social Media (Facebook, Instagram, Twitter, etc.)</option>
+                        <option value="wordOfMouth">Word of Mouth</option>
+                        <option value="newsMedia">News/Media Coverage</option>
+                        <option value="other">Other</option>
+                     </select>
+                  </div>
+               </div>
+            </div>
 
-                              } else if (houseType === 'farmhouse') {
-                                 farmHouseFields.style.display = 'block';
-                                 villaFields.style.display = 'none';
-                                 resortFields.style.display = 'none';
-                                  
-                                  // Clear villa and resort fields
-                                  document.getElementById('bedrooms').value = null;
-                                  document.getElementById('squareFeet').value = null;
-                                  document.getElementById('masterBedroomSize').value = null;
-                                  document.getElementById('livingRoomSize').value = null;
-                                  document.getElementById('bedroomSize').value = null;
-                                  document.getElementById('bathroomSize').value = null;
-                                  document.getElementById('swimmingPool').value = null;
-                                  document.getElementById('poolSize').value = null;
-                                  document.getElementById('facilityManagementVilla').value = null;
-                                  document.getElementById('siteVisiting').value = null;
-                                  document.getElementById('onlineBooking').value = null;
-                                  document.getElementById('realTimeMonitoring').value = null;
-
-                                  document.getElementById('resortType').value = null;
-                                  document.getElementById('campSite').value = null;
-                                  document.getElementById('pub').value = null;
-                                  document.getElementById('bar').value = null;
-                                  document.getElementById('restaurant').value = null;
-                                  document.getElementById('additionalSuggestions').value = null;
-                                  document.getElementById('yogaMeditations').value = null;
-                                  document.getElementById('indoorGames').value = null;
-                                  document.getElementById('otherSuggestions').value = null;
-
-                              } else if (houseType === 'resort') {
-                                 resortFields.style.display = 'block';
-                                 farmHouseFields.style.display = 'none';
-                                 villaFields.style.display = 'none';
-                                  
-                                  // Clear villa and farmhouse fields
-                                  document.getElementById('farmType').value = null;
-                                  document.getElementById('acres').value = null;
-                                  document.getElementById('facilityManagement').value = null;
-                                  document.getElementById('additionalServices').value = null;
-
-                                  document.getElementById('bedrooms').value = null;
-                                  document.getElementById('squareFeet').value = null;
-                                  document.getElementById('masterBedroomSize').value = null;
-                                  document.getElementById('livingRoomSize').value = null;
-                                  document.getElementById('bedroomSize').value = null;
-                                  document.getElementById('bathroomSize').value = null;
-                                  document.getElementById('swimmingPool').value = null;
-                                  document.getElementById('poolSize').value = null;
-                                  document.getElementById('facilityManagementVilla').value = null;
-                                  document.getElementById('siteVisiting').value = null;
-                                  document.getElementById('onlineBooking').value = null;
-                                  document.getElementById('realTimeMonitoring').value = null;
-                                  
-                              } else {
-                                 farmHouseFields.style.display = 'none';
-                                 villaFields.style.display = 'none';
-                                 resortFields.style.display = 'none';
-                                  
-                                  // Clear all fields
-                                  document.getElementById('farmType').value = null;
-                                  document.getElementById('acres').value = null;
-                                  document.getElementById('facilityManagement').value = null;
-                                  document.getElementById('additionalServices').value = null;
-
-                                  document.getElementById('bedrooms').value = null;
-                                  document.getElementById('squareFeet').value = null;
-                                  document.getElementById('masterBedroomSize').value = null;
-                                  document.getElementById('livingRoomSize').value = null;
-                                  document.getElementById('bedroomSize').value = null;
-                                  document.getElementById('bathroomSize').value = null;
-                                  document.getElementById('swimmingPool').value = null;
-                                  document.getElementById('poolSize').value = null;
-                                  document.getElementById('facilityManagementVilla').value = null;
-                                  document.getElementById('siteVisiting').value = null;
-                                  document.getElementById('onlineBooking').value = null;
-                                  document.getElementById('realTimeMonitoring').value = null;
-
-                                  document.getElementById('resortType').value = null;
-                                  document.getElementById('campSite').value = null;
-                                  document.getElementById('pub').value = null;
-                                  document.getElementById('bar').value = null;
-                                  document.getElementById('restaurant').value = null;
-                                  document.getElementById('additionalSuggestions').value = null;
-                                  document.getElementById('yogaMeditations').value = null;
-                                  document.getElementById('indoorGames').value = null;
-                                  document.getElementById('otherSuggestions').value = null;
-                              }
-                           }
-                         
-                        function handleSwimmingPoolChange() {
-                           const swimmingPool = document.getElementById('swimmingPool').value;
-                           const poolSizeField = document.getElementById('poolSizeField');
-                           
-                           if (swimmingPool === 'yes') {
-                               poolSizeField.style.display = 'block';
-                           } else {
-                               poolSizeField.style.display = 'none';
-                               document.getElementById('poolSize').value = null; // Clear the pool size input
-                           }
-                           }
+         </div>
+      </form>
+   </div>
+</div>
 
 
-                        </script>
+<div id="tab-4" class="my-acc-right-content">
+   <div class="section-title">
+      <br><br>
+      <h2>Project Appeal</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-tab-4">
+         <div class="form-container">
+            <div class="row">
+               <!-- Project Appeal Dropdown -->
+               <div class="col-12">
+                  <div class="form-group">
+                     <label for="projectAppeal">What aspect of God's Line - The Nest Eco City interests you the most? (Select all that apply)</label>
+                     <select id="projectAppeal" name="projectAppeal" class="form-control" multiple required>
+                        <option value="sustainableLiving">Sustainable Living</option>
+                        <option value="modernAmenities">Modern Amenities</option>
+                        <option value="greenSpaces">Green Spaces and Recreation</option>
+                        <option value="healthcareFacilities">Healthcare Facilities</option>
+                        <option value="communityEngagement">Community Engagement</option>
+                        <option value="investmentOpportunities">Investment Opportunities</option>
+                        <option value="other">Other (Please Specify):</option>
+                     </select>
+                     <input type="text" id="otherProjectAppeal" class="form-control mt-2" placeholder="Please specify" style="display: none;">
+                  </div>
+               </div>
+               <!-- Likelihood of Considering Living/Investing -->
+               <div class="col-12 mt-4">
+                  <div class="form-group">
+                     <label for="likelihood">On a scale of 1 to 5, how likely are you to consider living in or investing in The Nest Eco City?</label>
+                     <select id="likelihood" name="likelihood" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1 (Not Likely)</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5 (Very Likely)</option>
+                     </select>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </form>
 
 
-                        <div id="tab-6" class="my-acc-right-content"><br><br>
-                           <div class="section-title d-flex align-items-center justify-content-between">
-                              <h2>Wellness Park</h2>
-                           </div>
-                           <div class="wellness-park-section">
-                              <h4>What facilities are you interested in our wellness park?</h4><br>
-                              <div class="facilities-options">
-                                 <div class="form-group">
-                                    <!-- Checkboxes for wellness park facilities -->
-                                    <label><input type="checkbox" name="wellness_facilities" value="occupational-wellness"> Occupational wellness</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="financial-wellness"> Financial wellness</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="anti-aging"> Anti-aging</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="environmental-wellness"> Environmental wellness</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="spiritual-wellness"> Spiritual wellness</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="intellectual-wellness"> Intellectual wellness</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="physical-wellness"> Physical wellness</label>
-                                    <label><input type="checkbox" name="wellness_facilities" value="social-wellness"> Social wellness</label>
-                                 </div>
-                              </div>
-                              <div class="form-group"><br>
-                                 <!-- Dropdown for smart home facility -->
-                                 <label for="smartHome">Need smart home facility?<sup aria-hidden="true">*</sup>:</label><br>
-                                 <select id="smartHome" name="smartHome" class="form-control" required>
-                                    <option value="not" disabled selected>Select an option</option>
-                                    <option value="yes">Yes</option>
-                                    <option value="no">No</option>
-                                 </select>
-                              </div>
-                        </div>
+<script>
+   // Show/hide the 'Other' text input based on dropdown selection
+   document.getElementById('projectAppeal').addEventListener('change', function() {
+      var otherOption = Array.from(this.options).find(option => option.value === 'other' && option.selected);
+      document.getElementById('otherProjectAppeal').style.display = otherOption ? 'block' : 'none';
+   });
+</script>
 
-                        <div id="tab-7" class="my-acc-right-content">
-                           <div class="section-title"><br><br><br><br>
-                              <h2>Other facilities</h2>
-                           </div>
-                           <div class="form-wrapper">
-                              <form><br>
-                              <div class="other-facilities-options">
-                              <div class="form-group">
-                                    <label><input type="checkbox" name="other_facilities" value="swimming-pool"> Swimming pool</label>
-                                    <label><input type="checkbox" name="other_facilities" value="football-turf"> Football turf</label>
-                                    <label><input type="checkbox" name="other_facilities" value="island-lake"> Island lake</label>
-                                    <label><input type="checkbox" name="other_facilities" value="flower-garden"> Flower garden</label>
-                                    <label><input type="checkbox" name="other_facilities" value="movie-studio"> Movie studio</label>
-                                    <label><input type="checkbox" name="other_facilities" value="cafeteria"> Cafeteria</label>
-                                    <label><input type="checkbox" name="other_facilities" value="super-market"> Super market</label>
-                                    <label><input type="checkbox" name="other_facilities" value="residents-conference-hall"> Residents conference hall</label>
-                                    <label><input type="checkbox" name="other_facilities" value="management-team"> 24x7 management team</label>
-                                    <label><input type="checkbox" name="other_facilities" value="natural-pond"> Natural pond</label>
-                                    <label><input type="checkbox" name="other_facilities" value="health-clinic"> Health clinic with wellness park</label>
-                              </form>
-                              </div></div>
-                           </div>
-                        </div>
+                                
+
+<div id="tab-6" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title d-flex align-items-center justify-content-between">
+      <h2>Feedback on Features</h2>
+   </div>
+   <div class="feedback-features-section" style="background-color: transparent;">
+      <h4>Which features of The Nest Eco City do you find most appealing? (Rate each on a scale of 1 to 5)</h4>
+      <form id="form-feedback-features">
+         <div class="form-container">
+            <div class="row">
+               <!-- Sustainable Residential Homes -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="sustainableHomes">Sustainable Residential Homes:</label>
+                     <select id="sustainableHomes" name="sustainableHomes" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Energy-Efficient Infrastructure -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="energyEfficient">Energy-Efficient Infrastructure:</label>
+                     <select id="energyEfficient" name="energyEfficient" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Healthcare Facilities -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="healthcareFacilities">Healthcare Facilities:</label>
+                     <select id="healthcareFacilities" name="healthcareFacilities" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Green Spaces and Parks -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="greenSpaces">Green Spaces and Parks:</label>
+                     <select id="greenSpaces" name="greenSpaces" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Community Centers and Amenities -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="communityCenters">Community Centers and Amenities:</label>
+                     <select id="communityCenters" name="communityCenters" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Smart Technologies -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="smartTech">Smart Technologies (AI, IoT, etc.):</label>
+                     <select id="smartTech" name="smartTech" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Recreational Facilities -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="recreationalFacilities">Recreational Facilities:</label>
+                     <select id="recreationalFacilities" name="recreationalFacilities" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Road and Transportation Infrastructure -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="roadInfrastructure">Road and Transportation Infrastructure:</label>
+                     <select id="roadInfrastructure" name="roadInfrastructure" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                     </select>
+                  </div>
+               </div>
+               <!-- Additional Features -->
+               <div class="col-12 mt-4">
+                  <div class="form-group">
+                     <label for="additionalFeatures">Are there any features or amenities you would like to see included in the project?</label>
+                     <select id="additionalFeatures" name="additionalFeatures" class="form-control" required>
+                        <option value="" disabled selected>Select an option</option>
+                        <option value="yes">Yes (Please Specify)</option>
+                        <option value="no">No</option>
+                     </select>
+                     <input type="text" id="additionalFeaturesSpecify" class="form-control mt-2" placeholder="Please specify" style="display: none;">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </form>
+   </div>
+</div>
+
+<script>
+   // Show/hide the 'Additional Features Specify' text input based on dropdown selection
+   document.getElementById('additionalFeatures').addEventListener('change', function() {
+      var specifyOption = this.value === 'yes';
+      document.getElementById('additionalFeaturesSpecify').style.display = specifyOption ? 'block' : 'none';
+   });
+</script>
+<div id="tab-7" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title d-flex align-items-center justify-content-between">
+      <h2>Environmental Responsibility</h2>
+   </div>
+   <div class="environmental-responsibility-section" style="background-color: transparent;">
+      <h4>How important is sustainability and environmental responsibility in your decision to live in or support a project like The Nest Eco City?</h4>
+      <form id="form-environmental-responsibility">
+         <div class="form-container">
+            <div class="row">
+               <div class="col-12">
+                  <div class="form-group">
+                     <select id="sustainabilityImportance" name="sustainabilityImportance" class="form-control" required>
+                        <option value="" disabled selected>Select an option</option>
+                        <option value="very-important">Very Important</option>
+                        <option value="somewhat-important">Somewhat Important</option>
+                        <option value="neutral">Neutral</option>
+                        <option value="not-very-important">Not Very Important</option>
+                        <option value="not-important-at-all">Not Important at All</option>
+                     </select>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </form>
+   </div>
+</div>
 
 
-                        <div id="tab-8" class="my-acc-right-content">
-                           <div class="section-title"><br><br>
-                              <h2>Budget Range</h2>
-                           </div>
-                           <div class="form-wrapper">
-                              <form onsubmit="return validateBudgetRange()">
-                                 <!-- Preferable Budget Range -->
-                                 <div class="form-container">
-                                    <div class="form-group">
-                                       <label for="budgetRange">Preferable Budget Range (20L minimum):<sup aria-hidden="true">*</sup></label>
-                                       <input type="text" id="budgetRange" name="budgetRange" class="form-control" placeholder="Enter your budget range" required>
-                                    </div>
-                                 <br><br>
-                                 <!-- Total Members in a Family -->
-                                 
-                                    <div class="form-group">
-                                       <label for="familyMembers">Total members in a family:<sup aria-hidden="true">*</sup></label>
-                                       <select id="familyMembers" name="familyMembers" class="form-control" required><br>
-                                          <option value="" disabled selected>Select an option</option>
-                                          <option value="single">Single</option>
-                                          <option value="couple">Couple</option>
-                                          <option value="family">Family</option>
-                                       </select>
-                                    </div>
-                                 </div>
-                              </form>
-                           </div>
-                        </div>
+<div id="tab-8" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title d-flex align-items-center justify-content-between">
+      <h2>Community Involvement</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-community-involvement">
+         <!-- Participation Interest -->
+         <div class="form-container">
+            <div class="form-group">
+               <label for="communityParticipation">Would you be interested in participating in community events, workshops, or forums related to The Nest Eco City?<sup aria-hidden="true">*</sup>:</label>
+               <select id="communityParticipation" name="communityParticipation" class="form-control" required>
+                  <option value="" disabled selected>Select an option</option>
+                  <option value="yes">Yes</option>
+                  <option value="no">No</option>
+                  <option value="maybe">Maybe</option>
+               </select>
+            </div>
+         </div>
+         <br>
+         <!-- Types of Community Activities -->
+         <div class="form-container">
+            <div class="form-group">
+               <label for="communityActivities">What types of community activities would you like to see in The Nest Eco City?<sup aria-hidden="true">*</sup>:</label>
+               <select id="communityActivities" name="communityActivities" class="form-control" multiple required>
+                  <option value="educational-workshops">Educational Workshops</option>
+                  <option value="fitness-wellness-programs">Fitness and Wellness Programs</option>
+                  <option value="social-gatherings-festivals">Social Gatherings and Festivals</option>
+                  <option value="environmental-sustainability-initiatives">Environmental and Sustainability Initiatives</option>
+                  <option value="other">Other (Please Specify):</option>
+               </select>
+            </div>
+         </div>
+      </form>
+   </div>
+</div>
                         
-                        <div id="tab-9" class="my-acc-right-content">
-                           <div class="section-title"><br><br>
-                              <h2>Additional Informations</h2>
-                           </div>
-                           <div class="form-wrapper">
-                              <form>
-                                 <!-- Interested in Additional Income -->
-                                 <div class="form-container">
-                                    <div class="form-group">
-                                       <label for="additionalIncome">Interested in additional income?<sup aria-hidden="true">*</sup></label><br>
-                                       <select id="additionalIncome" name="additionalIncome" class="form-control" required onchange="handleIncomeChange()">>
-                                          <option value="" disabled selected>Select an option</option>
-                                          <option value="yes">Yes</option>
-                                          <option value="no">No</option>
-                                       </select>
-                                    </div>
-                                 
-                                    <!-- Income Options - Hidden by Default -->
-                                    <div id="incomeOptions" class="form-group" style="display: none;"><br>
-                                       <label for="incomeOptions">If yes, select your preferred income options:</label>
-                                       <div class="form-wrapper">
-                                          <form>
-                                             <div class="income-options">
-                                                   <div class="form-group">
-                                                      <label><input type="checkbox" name="incomeType" value="rental-income"> Rental income</label><br>
-                                                      <label><input type="checkbox" name="incomeType" value="additional-income"> Additional income</label><br>
-                                                      <label><input type="checkbox" name="incomeType" value="roi-income"> ROI-based income</label>
-                                                   </div>
-                                             </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </form>
-                           </div>
-                        </div>
+<div id="tab-9" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title">
+      <h2>Overall Opinion</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-overall-opinion">
+         <!-- Additional Comments or Suggestions -->
+         <div class="form-container">
+            <div class="form-group">
+               <label for="additionalComments">Do you have any additional comments or suggestions regarding God's Line - The Nest Eco City?<sup aria-hidden="true">*</sup>:</label><br>
+               <textarea id="additionalComments" name="additionalComments" class="form-control" rows="4" placeholder="Please specify..."></textarea>
+            </div>
+         </div>
+         <br>
+         <!-- Preferred Method of Follow-Up -->
+         <div class="form-container">
+            <div class="form-group">
+               <label for="followUpMethod">Preferred Method of Follow-Up:<sup aria-hidden="true">*</sup>:</label>
+               <select id="followUpMethod" name="followUpMethod" class="form-control" required>
+                  <option value="" disabled selected>Select an option</option>
+                  <option value="email">Email</option>
+                  <option value="phone">Phone</option>
+                  <option value="no-follow-up">No Follow-Up Needed</option>
+               </select>
+            </div>
+         </div>
+      </form>
+   </div>
+</div>
                         <script>
                            function handleIncomeChange() {
                               const additionalIncome = document.getElementById('additionalIncome').value;
