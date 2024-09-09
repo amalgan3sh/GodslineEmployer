@@ -36,6 +36,7 @@ class Home extends BaseController
     public function SubmitSurvey(){
 
         $json = $this->request->getJSON();
+        // return $json;
 
 
         if (!$json) {
@@ -47,64 +48,68 @@ class Home extends BaseController
 
         // Load the SurveyModel
         $surveyModel = new SurveyModel();
-        
+
 
             // Define the data array
     $data = [
-        'who_are_you' => $json->whoAreYou,
-        'first_name' => $json->firstName,
-        'last_name' => $json->lastName,
+        'full_name' => $json->fullName,
+        'dob' => $json->dateOfBirth,
         'gender' => $json->gender,
         'nationality' => $json->nationality,
-        'age' => $json->age,
+        'current_address' => $json->currentAddress,
+        'city' => $json->city,
+        'state' => $json->state,
+        'postal_code' => $json->postalCode,
+        'country' => $json->country,
         'phone' => $json->phone,
         'email' => $json->email,
-        'designation' => $json->designation,
-        'current_residential_location' => $json->currentLocation,
-        'hometown' => $json->hometown,
-        'project_location' => $json->projectLocation,
-        'interested_district' => $json->interestedDistrict,
-        'distance_from_city' => $json->distanceFromCity,
-        'house_type' => $json->houseType,
-        'farm_type' => $json->farmType,
-        'farm_acres' => $json->acres,
-        'farm_facility_management' => $json->facilityManagement,
-        'farm_additional_services' => $json->additionalServices,
-        'villa_bedrooms' => $json->bedrooms,
-        'villa_sqft' => $json->squareFeet,
-        'villa_master_bedroom_size' => $json->masterBedroomSize,
-        'villa_living_room_size' => $json->livingRoomSize,
-        'villa_bedroom_size' => $json->bedroomSize,
-        'villa_bathroom_size' => $json->bathroomSize,
-        'villa_swimming_pool' => $json->swimmingPool,
-        'villa_pool_size' => $json->poolSize,
-        'villa_facility_management' => $json->facilityManagementVilla,
-        'villa_site_visiting' => $json->siteVisiting,
-        'villa_online_booking' => $json->onlineBooking,
-        'villa_real_time_monitoring' => $json->realTimeMonitoring,
-        'resort_type' => $json->resortType,
-        'resort_camp_site' => $json->campSite,
-        'resort_pub' => $json->pub,
-        'resort_bar' => $json->bar,
-        'resort_open_restaurant' => $json->restaurant,
-        'resort_additional_suggestions' => $json->additionalSuggestions,
-        'resort_yoga_meditations' => $json->yogaMeditations,
-        'resort_indoor_games' => $json->indoorGames,
-        'resort_other_suggestions' => $json->otherSuggestions,
-        'wellness_park_facilities' => $json->wellnessFacilities,
-        'smart_home_facility' => $json->smartHome,
-        'other_facilities' => $json->otherFacilities,
-        'budget_range' => $json->budgetRange,
-        'family_members' => $json->familyMembers,
-        'additional_income' => $json->additionalIncome,
-        'income_sources' => $json->incomeType,
-        'updated_at' => date('Y-m-d H:i:s'),
+        'linkedin_profile' => $json->linkedinPofile,
+        'position_title' => $json->positionTitle,
+        'department' => $json->department,
+        'other_department' => $json->otherDepartment,
+        'rating' => $json->rating,
+        'highest_degree' => $json->highestDegree,
+        'field_of_study' => $json->fieldofStudy,
+        'institution_name' => $json->institutionName,
+        'year_of_graduation' => $json->yearOfGraduation,
+        'additional_certificates' => $json->additionalCertificates,
+        'recent_comp_name' => $json->companyName1,
+        'recent_comp_position_title' => $json->positionTitle1,
+        'recent_comp_emp_period_from' => $json->from1,
+        'recent_comp_emp_period_to' => $json->to1,
+        'recent_comp_responsibilities' => $json->responsibilities1,
+        'prev_comp_name' => $json->companyName2,
+        'prev_comp_position_title' => $json->positionTitle2,
+        'prev_comp_emp_period_from' => $json->from2,
+        'prev_comp_emp_period_to' => $json->to2,
+        'prev_comp_responsibilities' => $json->responsibilities2,
+        'total_yeras_of_exp' => $json->totalYearsOfExperience,
+        'techinical_skills' => $json->techinicalSkills,
+        'soft_skills' => $json->softSkills,
+        'language_spoken' => $json->languageSpoken,
+        'other_language' => $json->otherLanguageSpoken,
+        'experience_with_sustainable_construction' => $json->experienceWithGreenTechnology,
+        'experience_with_sustainable_construction_desc' => $json->experienceWithGreenTechnology,
+        'experience_with_green_technology' => $json->experienceWithGreenTechnology,
+        'experience_with_green_technology_desc' => $json->experienceWithGreenTechnologyDesc,
+        'experience_with_engagement_initiatives' => $json->experienceWithEngagementInitiatives,
+        'experience_with_engagement_initiatives_desc' => $json->experienceWithEngagementInitiativesDesc,
+        'experience_with_water_management_project' => $json->experienceWithwaterManagementProject,
+        'experience_with_water_management_project_desc' =>  $json->experienceWithwaterManagementProjectDesc,
+        'erliest_start_date' => $json->erliestStartDate,
+        'prefered_employment_type' => $json->preferedEmplymentType,
+        'reference_1' => $json->ref_1_name.'|'.$json->ref_1_relationship.'|'.$json->ref_1_company.'|'.$json->ref_1_phone.'|'.$json->ref_1_email,
+        'reference_2' =>  $json->ref_2_name.'|'.$json->ref_2_relationship.'|'.$json->ref_2_company.'|'.$json->ref_2_phone.'|'.$json->ref_2_email,
+        'motivation' => $json->motivation,
+        'share_your_details' => $json->shareYourDetails,
+        'date' => $json->date,
+        
     ];
     
         
 
         if ($surveyModel->insert($data)) {
-            return $this->response->setJSON(['success' => true]);
+            return $this->response->setJSON(['success' => true,]);
         } else {
             return $this->response->setStatusCode(ResponseInterface::HTTP_INTERNAL_SERVER_ERROR)
                 ->setJSON(['success' => false, 'error' => 'Failed to save data']);

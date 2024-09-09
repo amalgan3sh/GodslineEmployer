@@ -1,0 +1,30 @@
+CRITICAL - 2024-09-08 14:58:18 --> TypeError: Cannot access offset of type string on string
+[Method: POST, Route: submit_survey]
+in APPPATH\Controllers\Home.php on line 54.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->SubmitSurvey()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\GodslineEmployer\\index.php')
+CRITICAL - 2024-09-08 14:59:10 --> TypeError: Cannot access offset of type string on string
+[Method: POST, Route: submit_survey]
+in APPPATH\Controllers\Home.php on line 54.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->SubmitSurvey()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\GodslineEmployer\\index.php')
+CRITICAL - 2024-09-08 15:06:27 --> Error: Call to undefined function App\Controllers\alert()
+[Method: POST, Route: submit_survey]
+in APPPATH\Controllers\Home.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->SubmitSurvey()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\GodslineEmployer\\index.php')

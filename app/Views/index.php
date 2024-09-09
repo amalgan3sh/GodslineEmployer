@@ -1,4 +1,15 @@
+<style>
+   .form-control  {
+      color: grey !important;
+   }
+   
 
+   
+   </style>
+   
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+   
       <!--header end here-->
       <div class="wrapper">
          <section class="my-account-page padding-bottom padding-top">
@@ -51,7 +62,7 @@
                                     <path d="M5 9C4.44772 9 4 9.44772 4 10C4 10.5523 4.44772 11 5 11C5.55228 11 6 10.5523 6 10C6 9.44772 5.55228 9 5 9Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Project Appeal</b>
+                                 <!-- <b>Project Appeal</b> --> <b>Position Applied For</b>
                                  </span>
                               </a>
                            </li>
@@ -62,7 +73,7 @@
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M9.20711 7.20711C8.81658 7.59763 8.18342 7.59763 7.79289 7.20711C7.40237 6.81658 7.40237 6.18342 7.79289 5.79289L11.2929 2.29289C11.6834 1.90237 12.3166 1.90237 12.7071 2.29289L16.2071 5.79289C16.5976 6.18342 16.5976 6.81658 16.2071 7.20711C15.8166 7.59763 15.1834 7.59763 14.7929 7.20711L13 5.41421L13 15C13 15.5523 12.5523 16 12 16C11.4477 16 11 15.5523 11 15L11 5.41421L9.20711 7.20711Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Feature Feedback</b>
+                                 <!-- <b>Feature Feedback</b> --> <b>Educational Background</b>
                                  </span>
                               </a>
                            </li>
@@ -72,7 +83,7 @@
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M9.52275 8.93361C9.42172 9.17558 9.19391 9.3408 8.93252 9.36167L4.18325 9.74094C3.56183 9.79057 3.31039 10.5666 3.78461 10.9712L7.39904 14.0554C7.59925 14.2262 7.68672 14.4949 7.62542 14.7509L6.52045 19.3652C6.37552 19.9704 7.03337 20.4497 7.56505 20.1262L11.6365 17.649C11.86 17.5131 12.1406 17.5131 12.3642 17.649L16.4356 20.1262C16.9672 20.4497 17.6251 19.9704 17.4802 19.3652L16.3752 14.7509C16.3139 14.4949 16.4014 14.2262 16.6016 14.0554L20.216 10.9712C20.6902 10.5666 20.4388 9.79057 19.8174 9.74094L15.0681 9.36167C14.8067 9.3408 14.5789 9.17558 14.4779 8.93361L12.6463 4.54699C12.4067 3.97327 11.5939 3.97327 11.3544 4.54699L9.52275 8.93361ZM16.0179 7.43115L14.4918 3.77638C13.5679 1.56346 10.4328 1.56348 9.50877 3.77638L7.98275 7.43115L4.02404 7.74729C1.62712 7.9387 0.65727 10.9318 2.48641 12.4926L5.49492 15.0597L4.57544 18.8994C4.0164 21.234 6.55383 23.0826 8.60461 21.8348L12.0003 19.7688L15.396 21.8348C17.4468 23.0826 19.9842 21.2339 19.4252 18.8994L18.5057 15.0597L21.5142 12.4926C23.3434 10.9318 22.3735 7.9387 19.9766 7.74729L16.0179 7.43115Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Environmental Responsibility</b>
+                                 <!-- <b>Environmental Responsibility</b> --> <b>Work Experience</b>
                                  </span>
                               </a>
                            </li>
@@ -83,7 +94,7 @@
                                     <path d="M12.7071 7.29289C12.3166 6.90237 11.6834 6.90237 11.2929 7.29289L8.29289 10.2929C7.90237 10.6834 7.90237 11.3166 8.29289 11.7071C8.68342 12.0976 9.31658 12.0976 9.70711 11.7071L11 10.4142V16C11 16.5523 11.4477 17 12 17C12.5523 17 13 16.5523 13 16V10.4142L14.2929 11.7071C14.6834 12.0976 15.3166 12.0976 15.7071 11.7071C16.0976 11.3166 16.0976 10.6834 15.7071 10.2929L12.7071 7.29289Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Community Involvement</b>
+                                 <!-- <b>Community Involvement</b> --> <b> Skills and Qualifications</b>
                                  </span>
                               </a>
                            </li>
@@ -95,12 +106,72 @@
                                     <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
                                  </svg>
                                  <span>
-                                 <b>Overall Opinion</b>
+                                 <b>Project-Specific Experience</b>
+                                 </span>
+                              </a>
+                           </li>
+                           <li>
+                              <a href="#tab-10" data-scroll="tab-9">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6ZM6 4H18C19.1046 4 20 4.89543 20 6V11H4V6C4 4.89543 4.89543 4 6 4ZM4 13V18C4 19.1046 4.89543 20 6 20H18C19.1046 20 20 19.1046 20 18V13H4Z" fill="#67898F"/>
+                                    <path d="M10 6C9.44772 6 9 6.44772 9 7C9 7.55228 9.44772 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10Z" fill="#67898F"/>
+                                    <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
+                                 </svg>
+                                 <span>
+                                 <b>Availability</b>
+                                 </span>
+                              </a>
+                           </li>
+                           <li>
+                              <a href="#tab-11" data-scroll="tab-9">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6ZM6 4H18C19.1046 4 20 4.89543 20 6V11H4V6C4 4.89543 4.89543 4 6 4ZM4 13V18C4 19.1046 4.89543 20 6 20H18C19.1046 20 20 19.1046 20 18V13H4Z" fill="#67898F"/>
+                                    <path d="M10 6C9.44772 6 9 6.44772 9 7C9 7.55228 9.44772 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10Z" fill="#67898F"/>
+                                    <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
+                                 </svg>
+                                 <span>
+                                 <b>References</b>
+                                 </span>
+                              </a>
+                           </li>
+                           <li>
+                              <a href="#tab-12" data-scroll="tab-9">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6ZM6 4H18C19.1046 4 20 4.89543 20 6V11H4V6C4 4.89543 4.89543 4 6 4ZM4 13V18C4 19.1046 4.89543 20 6 20H18C19.1046 20 20 19.1046 20 18V13H4Z" fill="#67898F"/>
+                                    <path d="M10 6C9.44772 6 9 6.44772 9 7C9 7.55228 9.44772 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10Z" fill="#67898F"/>
+                                    <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
+                                 </svg>
+                                 <span>
+                                 <b>Additional Information</b>
+                                 </span>
+                              </a>
+                           </li>
+                           <li>
+                              <a href="#tab-13" data-scroll="tab-9">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6ZM6 4H18C19.1046 4 20 4.89543 20 6V11H4V6C4 4.89543 4.89543 4 6 4ZM4 13V18C4 19.1046 4.89543 20 6 20H18C19.1046 20 20 19.1046 20 18V13H4Z" fill="#67898F"/>
+                                    <path d="M10 6C9.44772 6 9 6.44772 9 7C9 7.55228 9.44772 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10Z" fill="#67898F"/>
+                                    <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
+                                 </svg>
+                                 <span>
+                                 <b>Upload Documents</b>
+                                 </span>
+                              </a>
+                           </li>
+                           <li>
+                              <a href="#tab-14" data-scroll="tab-9">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6ZM6 4H18C19.1046 4 20 4.89543 20 6V11H4V6C4 4.89543 4.89543 4 6 4ZM4 13V18C4 19.1046 4.89543 20 6 20H18C19.1046 20 20 19.1046 20 18V13H4Z" fill="#67898F"/>
+                                    <path d="M10 6C9.44772 6 9 6.44772 9 7C9 7.55228 9.44772 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10Z" fill="#67898F"/>
+                                    <path d="M10 15C9.44772 15 9 15.4477 9 16C9 16.5523 9.44772 17 10 17H14C14.5523 17 15 16.5523 15 16C15 15.4477 14.5523 15 14 15H10Z" fill="#67898F"/>
+                                 </svg>
+                                 <span>
+                                 <b>Declaration</b>
                                  </span>
                               </a>
                            </li>
                            <li class="ogout-link">
-                              <a href="login.html" data-scroll="tab-10">
+                              <a href="login.html" data-scroll="tab-15">
                                  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1096 13.7506C10.6155 13.7315 11.0411 14.1261 11.0602 14.632C11.1033 15.7725 11.1638 16.605 11.2232 17.2018C11.2818 17.7895 11.6366 18.1432 12.1312 18.2036C12.7144 18.2749 13.5372 18.3333 14.6662 18.3333C15.7953 18.3333 16.618 18.2749 17.2012 18.2036C17.6956 18.1432 18.0506 17.7894 18.1092 17.2015C18.2195 16.0937 18.3329 14.1797 18.3329 11C18.3329 7.82021 18.2195 5.90623 18.1092 4.79841C18.0506 4.21051 17.6956 3.85671 17.2012 3.79627C16.618 3.72498 15.7953 3.66662 14.6662 3.66662C13.5372 3.66662 12.7144 3.72497 12.1312 3.79627C11.6366 3.85673 11.2818 4.21037 11.2232 4.79813C11.1638 5.39495 11.1033 6.22737 11.0602 7.36787C11.0411 7.87377 10.6155 8.2684 10.1096 8.24931C9.60374 8.23021 9.20911 7.80461 9.2282 7.29871C9.2724 6.1281 9.33505 5.25743 9.39891 4.61639C9.53316 3.26874 10.4728 2.15202 11.9088 1.97648C12.5772 1.89477 13.4753 1.83329 14.6662 1.83329C15.8572 1.83329 16.7552 1.89477 17.4237 1.97649C18.8598 2.15205 19.7992 3.26929 19.9335 4.61668C20.0517 5.80308 20.1662 7.78106 20.1662 11C20.1662 14.2189 20.0516 16.1968 19.9335 17.3832C19.7992 18.7306 18.8598 19.8479 17.4237 20.0234C16.7552 20.1051 15.8572 20.1666 14.6662 20.1666C13.4753 20.1666 12.5772 20.1051 11.9088 20.0234C10.4728 19.8479 9.53316 18.7312 9.39891 17.3835C9.33505 16.7425 9.2724 15.8718 9.2282 14.7012C9.20911 14.1953 9.60374 13.7697 10.1096 13.7506Z" fill="#FE4D4D"/>
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M6.60652 13.5602C6.96451 13.9181 6.96451 14.4985 6.60652 14.8565C6.24854 15.2145 5.66814 15.2145 5.31016 14.8565L2.10183 11.6482C1.74385 11.2902 1.74385 10.7098 2.10183 10.3518L5.31016 7.14349C5.66814 6.7855 6.24854 6.7855 6.60652 7.14349C6.96451 7.50147 6.96451 8.08187 6.60652 8.43985L4.96304 10.0833H13.75C14.2563 10.0833 14.6667 10.4937 14.6667 11C14.6667 11.5063 14.2563 11.9167 13.75 11.9167L4.96304 11.9167L6.60652 13.5602Z" fill="#FE4D4D"/>
@@ -140,17 +211,18 @@
                <!-- Name -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="name">Name<sup aria-hidden="true">*</sup>:</label>
-                     <input type="text" id="name" class="form-control" placeholder="Enter your name" required>
+                     <label for="fullName">Full Name<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="fullName" name="fullName" class="form-control" placeholder="Enter your full name" required>
                   </div>
                </div>
-               <!-- Age -->
+               <!-- Date of Birth -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="age">Age<sup aria-hidden="true">*</sup>:</label>
-                     <input type="number" id="age" class="form-control" placeholder="Enter your age" required>
+                     <label for="dateOfBirth">Date of Birth<sup aria-hidden="true">*</sup>:</label>
+                     <input type="date" id="dateOfBirth" name="dateOfBirth" class="form-control" placeholder="Enter your location" required>
                   </div>
                </div>
+               
                <!-- Gender -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
@@ -163,44 +235,79 @@
                      </select>
                   </div>
                </div>
-               <!-- Location -->
-               <div class="col-md-6 col-12">
+
+                <!-- Nationality -->
+                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="location">Location<sup aria-hidden="true">*</sup>:</label>
-                     <input type="text" id="location" class="form-control" placeholder="Enter your location" required>
+                     <label for="name">Nationality<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="nationality" name="nationality" class="form-control" placeholder="Enter your nationality" required>
                   </div>
                </div>
+
+                <!-- Current Address -->
+                <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="currentAddress">Current Address<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="currentAddress" name="currentAddress" class="form-control" placeholder="Enter your current address" required>
+                  </div>
+               </div>
+
+               <!-- City -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="city">City<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="city" name="city" class="form-control" placeholder="Enter your city" required>
+                  </div>
+               </div>
+
+                <!-- State/Province -->
+                <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="state">State/Province<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="state" name="state" class="form-control" placeholder="Enter your state/province" required>
+                  </div>
+               </div>
+
+               <!-- Postal Code -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="postalCode">Postal Code<sup aria-hidden="true">*</sup>:</label>
+                     <input type="number" id="postalCode" name="postalCode" class="form-control" placeholder="Enter your postal code" required>
+                  </div>
+               </div>
+
+               <!-- country -->
+               <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="country">Country<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="country" name="country" class="form-control" placeholder="Enter your country" required>
+                  </div>
+               </div>
+
+                <!-- Phone Number -->
+                <div class="col-md-6 col-12">
+                  <div class="form-group">
+                     <label for="phone">Phone Number (Optional):</label>
+                     <input type="text" id="phone" name="phone" class="form-control" placeholder="Enter your phone number">
+                  </div>
+               </div>
+
                <!-- Email -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
                      <label for="email">Email<sup aria-hidden="true">*</sup>:</label>
-                     <input type="email" id="email" class="form-control" placeholder="Enter your email address" required>
+                     <input type="email" id="email" name="email" class="form-control" placeholder="Enter your email address" required>
                   </div>
                </div>
+
                <!-- Phone Number -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="phone">Phone Number (Optional):</label>
-                     <input type="text" id="phone" class="form-control" placeholder="Enter your phone number">
+                     <label for="linkedinPofile">LinkedIn Profile</label>
+                     <input type="text" id="linkedinPofile" name="linkedinPofile" class="form-control" placeholder="Enter your phone number">
                   </div>
                </div>
-            </div>
-
-            <!-- Awareness Section -->
-            <div class="row">
-
-               <div class="col-12">
-                  <div class="form-group">
-                     <label for="awareness">How did you hear about God's Line - The Nest Eco City?</label>
-                     <select id="awareness" name="awareness" class="form-control" multiple required>
-                        <option value="website">Website</option>
-                        <option value="socialMedia">Social Media (Facebook, Instagram, Twitter, etc.)</option>
-                        <option value="wordOfMouth">Word of Mouth</option>
-                        <option value="newsMedia">News/Media Coverage</option>
-                        <option value="other">Other</option>
-                     </select>
-                  </div>
-               </div>
+               
             </div>
 
          </div>
@@ -212,15 +319,20 @@
 <div id="tab-4" class="my-acc-right-content">
    <div class="section-title">
       <br><br>
-      <h2>Project Appeal</h2>
+      <h2>Position Applied For</h2>
    </div>
    <div class="form-wrapper">
       <form id="form-tab-4">
          <div class="form-container">
             <div class="row">
                <!-- Project Appeal Dropdown -->
-               <div class="col-12">
-                  <div class="form-group">
+               
+                  <div class="form-group col-6">
+                     <label for="positionTitle">Position Title<sup aria-hidden="true">*</sup>:</label>
+                     <input type="text" id="positionTitle" name="positionTitle" class="form-control" placeholder="Enter your Position Title" required>
+                  </div>
+               
+                  <!-- <div class="form-group">
                      <label for="projectAppeal">What aspect of God's Line - The Nest Eco City interests you the most? (Select all that apply)</label>
                      <select id="projectAppeal" name="projectAppeal" class="form-control" multiple required>
                         <option value="sustainableLiving">Sustainable Living</option>
@@ -232,13 +344,31 @@
                         <option value="other">Other (Please Specify):</option>
                      </select>
                      <input type="text" id="otherProjectAppeal" class="form-control mt-2" placeholder="Please specify" style="display: none;">
+                  </div> -->
+                  <div class="form-group col-6">
+                     <label for="department">Department:</label>
+                     <select id="department" name="department" class="form-control" required>
+                        <option value="Construction">Construction</option>
+                        <option value="technologyDevelopment">Technology Development</option>
+                        <option value="Operations">Operations</option>
+                        <option value="Administration">Administration</option>
+                        <option value="marketingSales">Marketing & Sales</option>
+                        <option value="Healthcare">Healthcare</option>
+                        <option value="communityEngagement">Community Engagement</option>
+                        <option value="other">Other (Please Specify):</option>
+                     </select>
+                     
+                  </div>
+                  <div class="form-group col-12" id="otherDepartment_div" style="display: none;">
+                     <label for="">Specify: </label>
+                     <input type="text" id="otherDepartment" name="otherDepartment" class="form-control mt-2 pt-5" placeholder="Please specify" >
                   </div>
                </div>
                <!-- Likelihood of Considering Living/Investing -->
                <div class="col-12 mt-4">
                   <div class="form-group">
-                     <label for="likelihood">On a scale of 1 to 5, how likely are you to consider living in or investing in The Nest Eco City?</label>
-                     <select id="likelihood" name="likelihood" class="form-control" required>
+                     <label for="rating">On a scale of 1 to 5, how likely are you to consider living in or investing in The Nest Eco City?</label>
+                     <select id="rating" name="rating" class="form-control" required>
                         <option value="" disabled selected>Select a rating</option>
                         <option value="1">1 (Not Likely)</option>
                         <option value="2">2</option>
@@ -255,9 +385,11 @@
 
 <script>
    // Show/hide the 'Other' text input based on dropdown selection
-   document.getElementById('projectAppeal').addEventListener('change', function() {
+
+   document.getElementById('department').addEventListener('change', function() {
+      console.log('s');
       var otherOption = Array.from(this.options).find(option => option.value === 'other' && option.selected);
-      document.getElementById('otherProjectAppeal').style.display = otherOption ? 'block' : 'none';
+      document.getElementById('otherDepartment_div').style.display = otherOption ? 'block' : 'none';
    });
 </script>
 
@@ -265,17 +397,17 @@
 
 <div id="tab-6" class="my-acc-right-content" style="background-color: transparent;">
    <div class="section-title d-flex align-items-center justify-content-between">
-      <h2>Feedback on Features</h2>
+      <h2>Educational Background</h2>
    </div>
    <div class="feedback-features-section" style="background-color: transparent;">
-      <h4>Which features of The Nest Eco City do you find most appealing? (Rate each on a scale of 1 to 5)</h4>
+      <!-- <h4>Which features of The Nest Eco City do you find most appealing? (Rate each on a scale of 1 to 5)</h4> -->
       <form id="form-feedback-features">
          <div class="form-container">
             <div class="row">
                <!-- Sustainable Residential Homes -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="sustainableHomes">Sustainable Residential Homes:</label>
+                     <!-- <label for="sustainableHomes">Sustainable Residential Homes:</label>
                      <select id="sustainableHomes" name="sustainableHomes" class="form-control" required>
                         <option value="" disabled selected>Select a rating</option>
                         <option value="1">1</option>
@@ -283,27 +415,40 @@
                         <option value="3">3</option>
                         <option value="4">4</option>
                         <option value="5">5</option>
+                     </select> -->
+                     <label for="highestDegree">Highest Degree Obtained:</label>
+                     <select id="highestDegree" name="highestDegree" class="form-control" required>
+                        <option value="" disabled selected>Select a rating</option>
+                        <option value="HighSchoolDiploma">High School Diploma</option>
+                        <option value="AssociateDegree">Associate Degree</option>
+                        <option value="BachelorDegree3">Bachelor’s Degree</option>
+                        <option value="MasterDegree">Master’s Degree</option>
+                        <option value="Doctorate">Doctorate</option>
                      </select>
                   </div>
                </div>
                <!-- Energy-Efficient Infrastructure -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="energyEfficient">Energy-Efficient Infrastructure:</label>
-                     <select id="energyEfficient" name="energyEfficient" class="form-control" required>
+                     <label for="fieldofStudy">Field of Study:</label>
+                     <input type="text" id="fieldofStudy" name="fieldofStudy" class="form-control" placeholder="Enter your field of study" required>
+
+                     <!-- <select id="energyEfficient" name="energyEfficient" class="form-control" required>
                         <option value="" disabled selected>Select a rating</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
                         <option value="4">4</option>
                         <option value="5">5</option>
-                     </select>
+                     </select> -->
                   </div>
                </div>
                <!-- Healthcare Facilities -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="healthcareFacilities">Healthcare Facilities:</label>
+                     <label for="institutionName">Institution Name:</label>
+                     <input type="text" id="institutionName" name="institutionName" class="form-control" placeholder="Enter your institution name" required>
+                     <!-- <label for="healthcareFacilities">Healthcare Facilities:</label>
                      <select id="healthcareFacilities" name="healthcareFacilities" class="form-control" required>
                         <option value="" disabled selected>Select a rating</option>
                         <option value="1">1</option>
@@ -311,13 +456,15 @@
                         <option value="3">3</option>
                         <option value="4">4</option>
                         <option value="5">5</option>
-                     </select>
+                     </select> -->
                   </div>
                </div>
                <!-- Green Spaces and Parks -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="greenSpaces">Green Spaces and Parks:</label>
+                     <label for="yearOfGraduation">Year of Graduation:</label>
+                     <input type="text" id="yearOfGraduation" name="yearOfGraduation" class="form-control" placeholder="Enter your graduation year" required>
+                     <!-- <label for="greenSpaces">Green Spaces and Parks:</label>
                      <select id="greenSpaces" name="greenSpaces" class="form-control" required>
                         <option value="" disabled selected>Select a rating</option>
                         <option value="1">1</option>
@@ -325,25 +472,26 @@
                         <option value="3">3</option>
                         <option value="4">4</option>
                         <option value="5">5</option>
-                     </select>
+                     </select> -->
                   </div>
                </div>
                <!-- Community Centers and Amenities -->
                <div class="col-md-6 col-12">
                   <div class="form-group">
-                     <label for="communityCenters">Community Centers and Amenities:</label>
-                     <select id="communityCenters" name="communityCenters" class="form-control" required>
+                     <label for="additionalCertificates">Additional Certifications/Training:</label>
+                     <input type="text" id="additionalCertificates" name="additionalCertificates" class="form-control" placeholder="Enter Additional Certifications/Training" required>
+                     <!-- <select id="communityCenters" name="communityCenters" class="form-control" required>
                         <option value="" disabled selected>Select a rating</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
                         <option value="4">4</option>
                         <option value="5">5</option>
-                     </select>
+                     </select> -->
                   </div>
                </div>
                <!-- Smart Technologies -->
-               <div class="col-md-6 col-12">
+               <!-- <div class="col-md-6 col-12">
                   <div class="form-group">
                      <label for="smartTech">Smart Technologies (AI, IoT, etc.):</label>
                      <select id="smartTech" name="smartTech" class="form-control" required>
@@ -355,9 +503,9 @@
                         <option value="5">5</option>
                      </select>
                   </div>
-               </div>
+               </div> -->
                <!-- Recreational Facilities -->
-               <div class="col-md-6 col-12">
+               <!-- <div class="col-md-6 col-12">
                   <div class="form-group">
                      <label for="recreationalFacilities">Recreational Facilities:</label>
                      <select id="recreationalFacilities" name="recreationalFacilities" class="form-control" required>
@@ -369,9 +517,9 @@
                         <option value="5">5</option>
                      </select>
                   </div>
-               </div>
+               </div> -->
                <!-- Road and Transportation Infrastructure -->
-               <div class="col-md-6 col-12">
+               <!-- <div class="col-md-6 col-12">
                   <div class="form-group">
                      <label for="roadInfrastructure">Road and Transportation Infrastructure:</label>
                      <select id="roadInfrastructure" name="roadInfrastructure" class="form-control" required>
@@ -383,9 +531,9 @@
                         <option value="5">5</option>
                      </select>
                   </div>
-               </div>
+               </div> -->
                <!-- Additional Features -->
-               <div class="col-12 mt-4">
+               <!-- <div class="col-12 mt-4">
                   <div class="form-group">
                      <label for="additionalFeatures">Are there any features or amenities you would like to see included in the project?</label>
                      <select id="additionalFeatures" name="additionalFeatures" class="form-control" required>
@@ -395,7 +543,7 @@
                      </select>
                      <input type="text" id="additionalFeaturesSpecify" class="form-control mt-2" placeholder="Please specify" style="display: none;">
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
       </form>
@@ -404,22 +552,34 @@
 
 <script>
    // Show/hide the 'Additional Features Specify' text input based on dropdown selection
-   document.getElementById('additionalFeatures').addEventListener('change', function() {
-      var specifyOption = this.value === 'yes';
-      document.getElementById('additionalFeaturesSpecify').style.display = specifyOption ? 'block' : 'none';
-   });
+   // document.getElementById('additionalFeatures').addEventListener('change', function() {
+   //    var specifyOption = this.value === 'yes';
+   //    document.getElementById('additionalFeaturesSpecify').style.display = specifyOption ? 'block' : 'none';
+   // });
 </script>
 <div id="tab-7" class="my-acc-right-content" style="background-color: transparent;">
    <div class="section-title d-flex align-items-center justify-content-between">
-      <h2>Environmental Responsibility</h2>
+      <h2>Work Experience</h2>
    </div>
    <div class="environmental-responsibility-section" style="background-color: transparent;">
-      <h4>How important is sustainability and environmental responsibility in your decision to live in or support a project like The Nest Eco City?</h4>
+      <h4>Most Recent Employer:</h4>
       <form id="form-environmental-responsibility">
          <div class="form-container">
             <div class="row">
-               <div class="col-12">
+               <div class="col-6">
                   <div class="form-group">
+                     <label for="companyName1">Company Name:</label>
+                     <input type="text" id="companyName1" name="companyName1" class="form-control" placeholder="Enter your company name" required>
+                  </div>
+                  
+               </div>
+               <div class="col-6">
+                  <div class="form-group">
+                     <label for="positionTitle1">Position Title:</label>
+                     <input type="text" id="positionTitle1" name="positionTitle1" class="form-control" placeholder="Enter your position title" required>
+                  </div>
+               </div>
+                  <!-- <div class="form-group">
                      <select id="sustainabilityImportance" name="sustainabilityImportance" class="form-control" required>
                         <option value="" disabled selected>Select an option</option>
                         <option value="very-important">Very Important</option>
@@ -428,9 +588,86 @@
                         <option value="not-very-important">Not Very Important</option>
                         <option value="not-important-at-all">Not Important at All</option>
                      </select>
-                  </div>
+                  </div> -->
                </div>
+               <div class="row">
+                  <div class="col-6">
+                     <div class="form-group">
+                        <label for="from1">Employment Period From:</label>
+                        <input type="date" id="from1" name="from1" class="form-control" placeholder="From" required>
+                     </div>
+                     
+                  </div>
+                  <div class="col-6">
+                     <div class="form-group">
+                           <label for="to1">Employment Period To:</label>
+                           <input type="date" id="to1" name="to1" class="form-control" placeholder="Enter your position title" required>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row">
+                  <div class="col-6">
+                     <div class="form-group">
+                           <label for="responsibilities1">Responsibilities:</label>
+                           <input type="text" id="responsibilities1" name="responsibilities1" class="form-control" placeholder="Enter your position title" required>
+                     </div>
+                  </div>
             </div>
+                  
+            </div>
+            
+            
+         </div>
+      </form>
+
+      <h4>Previous Employer:</h4>
+      <form id="form-previous-employer">
+         <div class="form-container">
+            <div class="row">
+               <div class="col-6">
+                     <div class="form-group">
+                           <label for="companyName2">Company Name:</label>
+                           <input type="text" id="companyName2" name="companyName2" class="form-control" placeholder="Enter your company name" required>
+                     </div>
+               </div>
+               <div class="col-6">
+                     <div class="form-group">
+                           <label for="positionTitle2">Position Title:</label>
+                           <input type="text" id="positionTitle2" name="positionTitle2" class="form-control" placeholder="Enter your position Title" required>
+                     </div>
+               </div>
+               <div class="col-6">
+                     <div class="form-group">
+                           <label for="from2">Employment Period From:</label>
+                           <input type="date" id="from2" name="from2" class="form-control" placeholder="Enter your company name" required>
+                     </div>
+               </div>
+               <div class="col-6">
+                     <div class="form-group">
+                           <label for="to2">Employment Period To:</label>
+                           <input type="date" id="to2" name="to2" class="form-control" placeholder="Enter your position Title" required>
+                     </div>
+               </div>
+               <div class="col-6">
+                     <div class="form-group">
+                           <label for="responsibilities2">Responsibilities:</label>
+                           <input type="text" id="responsibilities2" name="responsibilities2" class="form-control" placeholder="Enter your position title" required>
+                     </div>
+               </div>
+               <div class="col-6">
+                     <div class="form-group">
+                           <label for="totalYearsOfExperience">Total Years of Relevant Experience:</label>
+                           <select id="totalYearsOfExperience" name="totalYearsOfExperience" class="form-control" required>
+                              <option value="" disabled selected>Select an option</option>
+                              <option value="0-2">0-2 Years</option>
+                              <option value="3-5">3-5 Years</option>
+                              <option value="6-10">6-10 Years</option>
+                              <option value="10+">10+ Years</option>
+                           </select>
+                     </div>
+               </div>
+
+            </div>            
          </div>
       </form>
    </div>
@@ -439,83 +676,356 @@
 
 <div id="tab-8" class="my-acc-right-content" style="background-color: transparent;">
    <div class="section-title d-flex align-items-center justify-content-between">
-      <h2>Community Involvement</h2>
+      <h2>Skills and Qualifications</h2>
    </div>
    <div class="form-wrapper">
       <form id="form-community-involvement">
          <!-- Participation Interest -->
          <div class="form-container">
             <div class="form-group">
-               <label for="communityParticipation">Would you be interested in participating in community events, workshops, or forums related to The Nest Eco City?<sup aria-hidden="true">*</sup>:</label>
-               <select id="communityParticipation" name="communityParticipation" class="form-control" required>
+               <label for="techinicalSkills">Technical Skills:(e.g., software, tools, languages)</label>
+               <input type="text" id="techinicalSkills" name="techinicalSkills" class="form-control" placeholder="Enter your techinical skills" required>
+               <!-- <label for="communityParticipation">Would you be interested in participating in community events, workshops, or forums related to The Nest Eco City?<sup aria-hidden="true">*</sup>:</label> -->
+               <!-- <select id="communityParticipation" name="communityParticipation" class="form-control" required>
                   <option value="" disabled selected>Select an option</option>
                   <option value="yes">Yes</option>
                   <option value="no">No</option>
                   <option value="maybe">Maybe</option>
-               </select>
+               </select> -->
             </div>
          </div>
          <br>
          <!-- Types of Community Activities -->
          <div class="form-container">
             <div class="form-group">
-               <label for="communityActivities">What types of community activities would you like to see in The Nest Eco City?<sup aria-hidden="true">*</sup>:</label>
+               <label for="softSkills">Soft Skills: (e.g., communication, teamwork, leadership)</label>
+               <input type="text" id="softSkills" name="softSkills" class="form-control" placeholder="Enter your soft skills" required>
+               <!-- <label for="communityActivities">What types of community activities would you like to see in The Nest Eco City?<sup aria-hidden="true">*</sup>:</label>
                <select id="communityActivities" name="communityActivities" class="form-control" multiple required>
                   <option value="educational-workshops">Educational Workshops</option>
                   <option value="fitness-wellness-programs">Fitness and Wellness Programs</option>
                   <option value="social-gatherings-festivals">Social Gatherings and Festivals</option>
                   <option value="environmental-sustainability-initiatives">Environmental and Sustainability Initiatives</option>
                   <option value="other">Other (Please Specify):</option>
+               </select> -->
+            </div>
+         </div>
+         <div class="form-container">
+            <div class="form-group">
+               <label for="languageSpoken">Languages Spoken:</label>
+               <select id="languageSpoken" name="languageSpoken" class="form-control mb-5" required>
+                  <option value="English">English</option>
+                  <option value="Hindi">Hindi</option>
+                  <option value="other">Other (Please Specify):</option>           
+
                </select>
+            </div>
+            <div class="form-group col-12 otherLanguageSpoken_div" style="display: none;">
+               <input type="text" id="otherLanguageSpoken" class="form-control mt-2" placeholder="Please specify">
             </div>
          </div>
       </form>
    </div>
 </div>
+<script>
+   // Show/hide the 'Additional Features Specify' text input based on dropdown selection
+   
+   document.getElementById('languageSpoken').addEventListener('change', function() {
+     console.log(this.value);
+     if(this.value == 'other') {
+      console.log('s');
+      document.getElementById('otherLanguageSpoken_div').style.display = 'block';
+     }
+     else{
+      document.getElementById('otherLanguageSpoken_div').style.display = 'none';
+     }
+   });
+</script>
                         
 <div id="tab-9" class="my-acc-right-content" style="background-color: transparent;">
    <div class="section-title">
-      <h2>Overall Opinion</h2>
+      <h2>Project-Specific Experience</h2>
    </div>
    <div class="form-wrapper">
       <form id="form-overall-opinion">
          <!-- Additional Comments or Suggestions -->
-         <div class="form-container">
-            <div class="form-group">
-               <label for="additionalComments">Do you have any additional comments or suggestions regarding God's Line - The Nest Eco City?<sup aria-hidden="true">*</sup>:</label><br>
-               <textarea id="additionalComments" name="additionalComments" class="form-control" rows="4" placeholder="Please specify..."></textarea>
+         <div class="form-container row">
+            <div class="form-group col-6">
+               <label for="experienceWithSustainableConstruction">Experience with Sustainable Construction:<sup aria-hidden="true">*</sup>:</label>
+               <select id="experienceWithSustainableConstruction" name="experienceWithSustainableConstruction" class="form-control" required>
+                  <option value="" disabled selected>Select an option</option>
+                  <option value="yes">Yes</option>
+                  <option value="no">No</option>
+               </select>
+               <div class="form-group" id="experienceWithSustainableConstructionDesc_div"  style="display: none;">
+               <label for="experienceWithSustainableConstructionDesc">If Yes, Please Describe<sup aria-hidden="true">*</sup>:</label><br>
+               <textarea id="experienceWithSustainableConstructionDesc" name="experienceWithSustainableConstructionDesc" class="form-control" rows="4" placeholder="Please specify..."></textarea>
             </div>
-         </div>
+            </div>
+            
          <br>
          <!-- Preferred Method of Follow-Up -->
-         <div class="form-container">
-            <div class="form-group">
-               <label for="followUpMethod">Preferred Method of Follow-Up:<sup aria-hidden="true">*</sup>:</label>
-               <select id="followUpMethod" name="followUpMethod" class="form-control" required>
+            <div class="form-group col-6">
+               <label for="experienceWithGreenTechnology">Experience in Green Technology/Smart City Development:<sup aria-hidden="true">*</sup>:</label>
+               <select id="experienceWithGreenTechnology" name="experienceWithGreenTechnology" class="form-control" required>
                   <option value="" disabled selected>Select an option</option>
-                  <option value="email">Email</option>
-                  <option value="phone">Phone</option>
-                  <option value="no-follow-up">No Follow-Up Needed</option>
+                  <option value="yes">Yes</option>
+                  <option value="no">No</option>
                </select>
+               <div class="form-group" id="experienceWithGreenTechnologyDesc_div"  style="display: none;">
+               <label for="experienceWithGreenTechnologyDesc">If Yes, Please Describe<sup aria-hidden="true">*</sup>:</label><br>
+               <textarea id="experienceWithGreenTechnologyDesc" name="experienceWithGreenTechnologyDesc" class="form-control" rows="4" placeholder="Please specify..."></textarea>
+            </div>
+           
+            </div>
+         
+            <div class="form-group col-6">
+               <label for="experienceWithEngagementInitiatives">Experience with Community Engagement Initiatives:<sup aria-hidden="true">*</sup>:</label>
+               <select id="experienceWithEngagementInitiatives" name="experienceWithEngagementInitiatives" class="form-control" required>
+                  <option value="" disabled selected>Select an option</option>
+                  <option value="yes">Yes</option>
+                  <option value="no">No</option>
+               </select>
+               <div class="form-group" id="experienceWithEngagementInitiativesDesc_div"  style="display: none;">
+               <label for="experienceWithEngagementInitiativesDesc">If Yes, Please Describe<sup aria-hidden="true">*</sup>:</label><br>
+               <textarea id="experienceWithEngagementInitiativesDesc" name="experienceWithEngagementInitiativesDesc" class="form-control" rows="4" placeholder="Please specify..."></textarea>
+            </div>
+            </div>
+         
+            <div class="form-group col-6" >
+               <label for="experienceWithwaterManagementProject">Experience with Water/Energy Management Projects:<sup aria-hidden="true">*</sup>:</label>
+               <select id="experienceWithwaterManagementProject" name="experienceWithwaterManagementProject" class="form-control" required>
+                  <option value="" disabled selected>Select an option</option>
+                  <option value="yes">Yes</option>
+                  <option value="no">No</option>
+               </select>
+               <div class="form-group" id="experienceWithwaterManagementProjectDesc_div"  style="display: none;">
+               <label for="experienceWithwaterManagementProjectDesc">If Yes, Please Describe<sup aria-hidden="true">*</sup>:</label><br>
+               <textarea id="experienceWithwaterManagementProjectDesc" name="experienceWithwaterManagementProjectDesc" class="form-control" rows="4" placeholder="Please specify..."></textarea>
+            </div>
             </div>
          </div>
       </form>
    </div>
 </div>
                         <script>
-                           function handleIncomeChange() {
-                              const additionalIncome = document.getElementById('additionalIncome').value;
-                              const incomeOptions = document.getElementById('incomeOptions');
-                                                      
-                              if (additionalIncome === 'yes') {
-                                 incomeOptions.style.display = 'block';
-                              } else {
-                                 incomeOptions.style.display = 'none';
-                              }
-                           }
+                           document.getElementById('experienceWithSustainableConstruction').addEventListener('change', function() {
+                              var specifyOption = this.value === 'yes';
+                              document.getElementById('experienceWithSustainableConstructionDesc_div').style.display = specifyOption ? 'block' : 'none';
+                           });
+
+                           document.getElementById('experienceWithGreenTechnology').addEventListener('change', function() {
+                              var specifyOption = this.value === 'yes';
+                              document.getElementById('experienceWithGreenTechnologyDesc_div').style.display = specifyOption ? 'block' : 'none';
+                           });
+
+                           document.getElementById('experienceWithEngagementInitiatives').addEventListener('change', function() {
+                              var specifyOption = this.value === 'yes';
+                              document.getElementById('experienceWithEngagementInitiativesDesc_div').style.display = specifyOption ? 'block' : 'none';
+                           });
+
+                           document.getElementById('experienceWithwaterManagementProject').addEventListener('change', function() {
+                              var specifyOption = this.value === 'yes';
+                              document.getElementById('experienceWithwaterManagementProjectDesc_div').style.display = specifyOption ? 'block' : 'none';
+                           });
                            
                         </script>
-                        <div id="tab-10" class="my-acc-right-content">
+                                          
+<div id="tab-10" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title">
+      <h2>Availability</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-overall-opinion">
+         <!-- Additional Comments or Suggestions -->
+         <div class="form-container row">
+            <div class="form-group col-6">
+                     <label for="erliestStartDate">Earliest Start Date:<sup aria-hidden="true">*</sup>:</label>
+                     <input type="date" id="erliestStartDate" name="erliestStartDate" class="form-control" placeholder="Earliest Start Date" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="preferedEmplymentType">Preferred Employment Type:<sup aria-hidden="true">*</sup>:</label>
+               <select id="preferedEmplymentType" name="preferedEmplymentType" class="form-control" required>
+                  <option value="" disabled selected>Select an option</option>
+                  <option value="full-time">Full-Time</option>
+                  <option value="part-time">Part-Time</option>
+                  <option value="contract">Contract</option>
+                  <option value="Internship">Internship</option>
+               </select>
+            </div>
+         </div>
+      </form>
+   </div>
+</div>
+
+<div id="tab-11" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title">
+      <h2>References</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-overall-opinion">
+         <!-- Additional Comments or Suggestions -->
+         <h4>Reference 1:</h4>
+         <div class="form-container row">
+            
+           <div class="row">
+           <div class="form-group col-6">
+               <label for="ref_1_name">Name:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_1_name"  name="ref_1_name" class="form-control" placeholder="Name" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_1_relationship">Relationship:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_1_relationship" name="ref_1_relationship" class="form-control" placeholder="Relationship" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_1_company">Company:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_1_company" name="ref_1_company" class="form-control" placeholder="Company" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_1_phone">Phone:<sup aria-hidden="true">*</sup>:</label>
+               <input type="number" id="ref_1_phone" name="ref_1_phone" class="form-control" placeholder="Phone" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_1_email">Email:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_1_email" name="ref_1_email" class="form-control" placeholder="Email" required>
+                  
+            </div>
+           </div>
+        
+         <h4>Reference 2:</h4>
+         <div class=" row">
+         <div class="form-group col-6">
+               <label for="ref_2_name">Name:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_2_name"  name="ref_2_name" class="form-control" placeholder="Name" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_2_relationship">Relationship:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_2_relationship" name="ref_2_relationship" class="form-control" placeholder="Relationship" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_2_company">Company:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_2_company" name="ref_2_company" class="form-control" placeholder="Company" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_2_phone">Phone:<sup aria-hidden="true">*</sup>:</label>
+               <input type="number" id="ref_2_phone" name="ref_2_phone" class="form-control" placeholder="Phone" required>
+                  
+            </div>
+            <div class="form-group col-6">
+               <label for="ref_2_email">Email:<sup aria-hidden="true">*</sup>:</label>
+               <input type="text" id="ref_2_email" name="ref_2_email" class="form-control" placeholder="Email" required>
+                  
+            </div>
+         </div>
+         </div>
+      </form>
+   </div>
+</div>
+
+
+<div id="tab-12" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title">
+      <h2>Additional Information:</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-overall-opinion">
+         <!-- Additional Comments or Suggestions -->
+         <div class="form-container row">
+            <div class="form-group col-12">
+                     <label for="motivation">Why do you want to work with God's Line: The Nest Eco City? (Briefly describe your motivation
+                     and how you align with our project’s mission.)<sup aria-hidden="true">*</sup>:</label>
+                     <input type="input" id="motivation" name="motivation" class="form-control" placeholder="Earliest Start Date" required>
+                  
+            </div>
+            <div class="form-group col-12">
+                     <label for="shareYourDetails">Are there any other details you would like to share with us?<sup aria-hidden="true">*</sup>:</label>
+                     <input type="input" id="shareYourDetails" name="shareYourDetails" class="form-control" placeholder="Earliest Start Date" required>
+                  
+            </div>
+         </div>
+      </form>
+   </div>
+</div>
+
+
+<div id="tab-13" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title">
+      <h2>Upload Documents</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="document_form" enctype="multipart/form-data">
+         <!-- Additional Comments or Suggestions -->
+         <div class="form-container row">
+            <div class="input-group col-12 mb-5">
+               <div class="custom-file">
+                  <label class="custom-file-label" for="customFile">Resume/CV:</label>
+                  <input type="file" class="custom-file-input" id="resume">
+               </div>
+               <div class="custom-file">
+                  <label class="custom-file-label" for="customFile">Cover Letter:</label>
+                  <input type="file" class="custom-file-input" id="coverLetter">
+               </div>
+               <div class="custom-file">
+                  <label class="custom-file-label" for="customFile">Certifications/Transcripts:</label>
+                  <input type="file" class="custom-file-input" id="certifications" multiple>
+               </div>
+               
+         </div>
+      </form>
+   </div>
+</div>
+
+
+
+<div id="tab-14" class="my-acc-right-content" style="background-color: transparent;">
+   <div class="section-title">
+      <h2>Declaration</h2>
+   </div>
+   <div class="form-wrapper">
+      <form id="form-overall-opinion">
+         <!-- Additional Comments or Suggestions -->
+         <div class="form-container row">
+            <div class="mb-10"><h5>I hereby declare that the information provided is true and correct to the best of my knowledge. I
+understand that any false information may lead to the rejection of my application or termination of
+employment if discovered at a later date.</h5></div>
+               <div class="custom-file col-12" style="margin-top: 10px;">
+                  <label class="custom-file-label" for="customFile">Signature:</label>
+                  <input type="file" class="custom-file-input" id="signature" multiple>
+               </div>
+            <div class="form-group col-12" style="margin-top: 10px;">
+                     <label for="date">Date:<sup aria-hidden="true">*</sup>:</label>
+                     <input type="date" id="date" class="form-control" placeholder="Date" required>
+                  
+            </div>
+         </div>
+      </form>
+     <div class="row" style="margin-top: 15px;">
+     <h5> Instructions for Submission:</h5>
+         <ul style="margin-top: 15px;">
+            <li>Please ensure all fields are completed before submitting the form.</li>
+            <li>Attach all necessary documents as indicated.</li>
+            <li>Once submitted, your application will be reviewed, and you will be contacted if shortlisted for an
+            interview.</li>
+         </ul>
+         <h5 class="mt-5" style="margin-top: 25px;">Thank you for considering a career with God's Line: The Nest Eco City. We look forward to learning
+         more about you!</h5>
+     </div>
+
+   </div>
+</div>
+
+
+
+
+                        <div id="tab-15" class="my-acc-right-content">
                            <div class="form-container">
                               <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end">
                                  <button class="btn-secondary back-btn-acc" type="submit">
@@ -535,65 +1045,91 @@
                         </div>
                      </div>
                      <script>
+                        document.addEventListener('DOMContentLoaded', function () {
+                           bsCustomFileInput.init();
+                        });
+
                         document.querySelector('.continue-btn').addEventListener('click', function(event) {
+
                             // Collect data from each input field
                             const data = {
-                                whoAreYou: document.getElementById('whoAreYou').value,
-                                firstName: document.getElementById('firstName').value,
-                                lastName: document.getElementById('lastName').value,
-                                gender: document.getElementById('gender').value,
-                                nationality: document.getElementById('nationality').value,
-                                age: document.getElementById('age').value,
-                                phone: document.getElementById('phone').value,
-                                email: document.getElementById('email').value,
-                                designation: document.getElementById('designation').value,
-                                currentLocation: document.getElementById('currentLocation').value,
-                                hometown: document.getElementById('hometown').value,
-                                projectLocation: document.getElementById('projectLocation').value,
-                                interestedDistrict: document.getElementById('interestedDistrict').value,
-                                distanceFromCity: document.getElementById('distanceFromCity').value,
-                                houseType: document.getElementById('houseType').value,
-                                farmType: document.getElementById('farmType') ? document.getElementById('farmType').value : null,
-                                acres: document.getElementById('acres') ? document.getElementById('acres').value : null,
-                                facilityManagement: document.getElementById('facilityManagement') ? document.getElementById('facilityManagement').value : null,
-                                additionalServices: document.getElementById('additionalServices') ? document.getElementById('additionalServices').value : null,
-                                bedrooms: document.getElementById('bedrooms') ? document.getElementById('bedrooms').value : null,
-                                squareFeet: document.getElementById('squareFeet') ? document.getElementById('squareFeet').value : null,
-                                masterBedroomSize: document.getElementById('masterBedroomSize') ? document.getElementById('masterBedroomSize').value : null,
-                                livingRoomSize: document.getElementById('livingRoomSize') ? document.getElementById('livingRoomSize').value : null,
-                                bedroomSize: document.getElementById('bedroomSize') ? document.getElementById('bedroomSize').value : null,
-                                bathroomSize: document.getElementById('bathroomSize') ? document.getElementById('bathroomSize').value : null,
-                                swimmingPool: document.getElementById('swimmingPool') ? document.getElementById('swimmingPool').value : null,
-                                poolSize: document.getElementById('poolSize') ? document.getElementById('poolSize').value : null,
-                                facilityManagementVilla: document.getElementById('facilityManagementVilla') ? document.getElementById('facilityManagementVilla').value : null,
-                                siteVisiting: document.getElementById('siteVisiting') ? document.getElementById('siteVisiting').value : null,
-                                onlineBooking: document.getElementById('onlineBooking') ? document.getElementById('onlineBooking').value : null,
-                                realTimeMonitoring: document.getElementById('realTimeMonitoring') ? document.getElementById('realTimeMonitoring').value : null,
-                                resortType: document.getElementById('resortType') ? document.getElementById('resortType').value : null,
-                                campSite: document.getElementById('campSite') ? document.getElementById('campSite').value : null,
-                                pub: document.getElementById('pub') ? document.getElementById('pub').value : null,
-                                bar: document.getElementById('bar') ? document.getElementById('bar').value : null,
-                                restaurant: document.getElementById('restaurant') ? document.getElementById('restaurant').value : null,
-                                additionalSuggestions: document.getElementById('additionalSuggestions') ? document.getElementById('additionalSuggestions').value : null,
-                                yogaMeditations: document.getElementById('yogaMeditations') ? document.getElementById('yogaMeditations').value : null,
-                                indoorGames: document.getElementById('indoorGames') ? document.getElementById('indoorGames').value : null,
-                                otherSuggestions: document.getElementById('otherSuggestions') ? document.getElementById('otherSuggestions').value : null,
-                                wellnessFacilities: Array.from(document.querySelectorAll('input[name="wellness_facilities"]:checked')).map(el => el.value).join(', '),
-                                smartHome: document.getElementById('smartHome') ? document.getElementById('smartHome').value : null,
-                                otherFacilities: Array.from(document.querySelectorAll('input[name="other_facilities"]:checked')).map(el => el.value).join(', '),
-                                budgetRange: document.getElementById('budgetRange').value,
-                                familyMembers: document.getElementById('familyMembers').value,
-                                additionalIncome: document.getElementById('additionalIncome').value,
-                                incomeType: Array.from(document.querySelectorAll('input[name="incomeType"]:checked')).map(el => el.value).join(', ')
-                            };
+                              fullName: document.getElementById('fullName').value,
+                              dateOfBirth: document.getElementById('dateOfBirth').value,
+                              gender: document.getElementById('gender').value,
+                              nationality: document.getElementById('nationality').value,
+                              currentAddress: document.getElementById('currentAddress').value,
+                              city: document.getElementById('city').value,
+                              state: document.getElementById('state').value,
+                              postalCode: document.getElementById('postalCode').value,
+                              country: document.getElementById('country').value,
+                              phone: document.getElementById('phone').value,
+                              email: document.getElementById('email').value,
+                              linkedinPofile: document.getElementById('linkedinPofile').value,
+                              positionTitle: document.getElementById('positionTitle').value,
+                              department: document.getElementById('department').value,
+                              otherDepartment: document.getElementById('otherDepartment') ? document.getElementById('otherDepartment').value : null,
+                              rating: document.getElementById('rating').value,
+                              highestDegree: document.getElementById('highestDegree') ? document.getElementById('highestDegree').value : null,
+                              fieldofStudy: document.getElementById('fieldofStudy') ? document.getElementById('fieldofStudy').value : null,
+                              institutionName: document.getElementById('institutionName') ? document.getElementById('institutionName').value : null,
+                              yearOfGraduation: document.getElementById('yearOfGraduation') ? document.getElementById('yearOfGraduation').value : null,
+                              additionalCertificates: document.getElementById('additionalCertificates') ? document.getElementById('additionalCertificates').value : null,
+                              companyName1: document.getElementById('companyName1') ? document.getElementById('companyName1').value : null,
+                              positionTitle1: document.getElementById('positionTitle1') ? document.getElementById('positionTitle1').value : null,
+                              from1: document.getElementById('from1') ? document.getElementById('from1').value : null,
+                              to1: document.getElementById('to1') ? document.getElementById('to1').value : null,
+                              responsibilities1: document.getElementById('responsibilities1') ? document.getElementById('responsibilities1').value : null,
+                              companyName2: document.getElementById('companyName2') ? document.getElementById('companyName2').value : null,
+                              positionTitle2: document.getElementById('positionTitle2') ? document.getElementById('positionTitle2').value : null,
+                              from2: document.getElementById('from2') ? document.getElementById('from2').value : null,
+                              to2: document.getElementById('to2') ? document.getElementById('to2').value : null,
+                              responsibilities2: document.getElementById('responsibilities2') ? document.getElementById('responsibilities2').value : null,
+                              totalYearsOfExperience: document.getElementById('totalYearsOfExperience') ? document.getElementById('totalYearsOfExperience').value : null,
+                              techinicalSkills: document.getElementById('techinicalSkills') ? document.getElementById('techinicalSkills').value : null,
+                              softSkills: document.getElementById('softSkills') ? document.getElementById('softSkills').value : null,
+                              languageSpoken: document.getElementById('languageSpoken') ? document.getElementById('languageSpoken').value : null,
+                              otherLanguageSpoken: document.getElementById('otherLanguageSpoken') ? document.getElementById('otherLanguageSpoken').value : null,
+                              experienceWithSustainableConstruction: document.getElementById('experienceWithSustainableConstruction') ? document.getElementById('experienceWithSustainableConstruction').value : null,
+                              experienceWithSustainableConstructionDesc: document.getElementById('experienceWithSustainableConstructionDesc') ? document.getElementById('experienceWithSustainableConstructionDesc').value : null,
+                              experienceWithGreenTechnology: document.getElementById('experienceWithGreenTechnology') ? document.getElementById('experienceWithGreenTechnology').value : null,
+                              experienceWithGreenTechnologyDesc: document.getElementById('experienceWithGreenTechnologyDesc') ? document.getElementById('experienceWithGreenTechnologyDesc').value : null,
 
+                              experienceWithEngagementInitiatives: document.getElementById('experienceWithEngagementInitiatives') ? document.getElementById('experienceWithEngagementInitiatives').value : null,
+                              experienceWithEngagementInitiativesDesc: document.getElementById('experienceWithEngagementInitiativesDesc') ? document.getElementById('experienceWithEngagementInitiativesDesc').value : null,
+
+                              experienceWithwaterManagementProject: document.getElementById('experienceWithwaterManagementProject') ? document.getElementById('experienceWithwaterManagementProject').value : null,
+                              experienceWithwaterManagementProjectDesc: document.getElementById('experienceWithwaterManagementProjectDesc') ? document.getElementById('experienceWithwaterManagementProjectDesc').value : null,
+
+                              erliestStartDate: document.getElementById('erliestStartDate') ? document.getElementById('erliestStartDate').value : null,
+                              preferedEmplymentType: document.getElementById('preferedEmplymentType') ? document.getElementById('preferedEmplymentType').value : null,
+                              ref_1_name: document.getElementById('ref_1_name') ? document.getElementById('ref_1_name').value : null,
+                              ref_1_relationship: document.getElementById('ref_1_relationship') ? document.getElementById('ref_1_relationship').value : null,
+                              ref_1_company: document.getElementById('ref_1_company') ? document.getElementById('ref_1_company').value : null,
+                              ref_1_phone: document.getElementById('ref_1_phone').value,
+                              ref_1_email: document.getElementById('ref_1_email').value,
+                              ref_2_name: document.getElementById('ref_2_name').value,
+                              ref_2_relationship: document.getElementById('ref_2_relationship').value,
+                              ref_2_company: document.getElementById('ref_2_company').value,
+                              ref_2_phone: document.getElementById('ref_2_phone').value,
+                              ref_2_email: document.getElementById('ref_2_email').value,
+                              motivation: document.getElementById('motivation') ? document.getElementById('motivation').value : null,
+                              shareYourDetails: document.getElementById('shareYourDetails') ? document.getElementById('shareYourDetails').value : null,
+                              date: document.getElementById('date') ? document.getElementById('date').value : null,
+                              // erliestStartDate: document.getElementById('indoorGames') ? document.getElementById('indoorGames').value : null,
+
+
+                              //   incomeType: Array.from(document.querySelectorAll('input[name="incomeType"]:checked')).map(el => el.value).join(', ')
+                            };
                             // Validate data and get a list of missing or invalid fields
                             const invalidFields = validateData(data);
+                          
+                           // const invalidFields = [];
+
 
                             // Check budget range
-                            if (data.budgetRange && !isValidBudget(data.budgetRange)) {
-                                invalidFields.push('Budget Range should be atleast 20 Lakhs)');
-                            }
+                           //  if (data.budgetRange && !isValidBudget(data.budgetRange)) {
+                           //      invalidFields.push('Budget Range should be atleast 20 Lakhs)');
+                           //  }
 
                             if (invalidFields.length === 0) {
                                 // Send data to the server
@@ -609,44 +1145,95 @@
                         function validateData(data) {
                             const invalidFields = [];
 
+
                             // Check each field and add to the list if it's invalid
-                            if (!data.whoAreYou) invalidFields.push('Who are you');
-                            if (!data.firstName) invalidFields.push('First Name');
-                            if (!data.lastName) invalidFields.push('Last Name');
+                            if (!data.fullName) invalidFields.push('Full Name');
+                            if (!data.dateOfBirth) invalidFields.push('Date of Birth');
                             if (!data.gender) invalidFields.push('Gender');
                             if (!data.nationality) invalidFields.push('Nationality');
-                            if (!data.age) invalidFields.push('Age');
+                            if (!data.currentAddress) invalidFields.push('Current Address');
+                            if (!data.city) invalidFields.push('City');
+                            if (!data.state) invalidFields.push('State/Province');
+                            if (!data.postalCode) invalidFields.push('Postal Code');
+                            if (!data.country) invalidFields.push('Country');
                             if (!data.phone) invalidFields.push('Phone');
                             if (!data.email) invalidFields.push('Email');
-                            if (!data.designation) invalidFields.push('Designation');
-                            if (!data.currentLocation) invalidFields.push('Current Residential Location');
-                            if (!data.hometown) invalidFields.push('Hometown');
-                            if (!data.projectLocation) invalidFields.push('Project Location');
-                            if (!data.interestedDistrict) invalidFields.push('Interested District');
-                            if (!data.distanceFromCity) invalidFields.push('Distance From the City');
-                            if (!data.houseType) invalidFields.push('House Type');
-                            if (!data.smartHome) invalidFields.push('Smart Home');
-                            if (!data.budgetRange) invalidFields.push('Budget Range');
-                            if (!data.familyMembers) invalidFields.push('Family Members');
-                            if (!data.additionalIncome) invalidFields.push('Additional Income');
+                            if (!data.linkedinPofile) invalidFields.push('LinkedIn Profile');
+                            if (!data.department) invalidFields.push('Department');
+                            if(data.department == 'other') {
+                                if (!data.otherDepartment) invalidFields.push('OtherDepartment');
+                            }
+                           //  if (!data.rating) invalidFields.push('Rating');
+                           //  if (!data.highestDegree) invalidFields.push('Highest Degree');
+                           //  if (!data.fieldofStudy) invalidFields.push('Field Of Study');
+                           //  if (!data.institutionName) invalidFields.push('Institution Name');
+                           //  if (!data.yearOfGraduation) invalidFields.push('Year Of Graduation');
+                           //  if (!data.additionalCertificates) invalidFields.push('Additional Certificates');
+                           //  if (!data.companyName1) invalidFields.push('Company Name');
+                           //  if(!data.from1) invalidFields.push('From');
+                           //  if(!data.to1) invalidFields.push('To');
+                           //  if(!data.responsibilities1) invalidFields.push('Responsibilities');
+                           //  if(!data.companyName2) invalidFields.push('Company Name');
+                           //  if(!data.from2) invalidFields.push('From');
+                           //  if(!data.to2) invalidFields.push('To');
+                           //  if(!data.responsibilities2) invalidFields.push('Responsibilities');
+                           //  if(!data.totalYearsOfExperience) invalidFields.push('Total Year of Experience');
+                           //  if(!data.techinicalSkills) invalidFields.push('Technical Skills');
+                           //  if(!data.softSkills) invalidFields.push('Soft Skills');
+                           //  if(!data.languageSpoken) invalidFields.push('Languages Spoken');
+                            if(data.languageSpoken == 'other') {
+                              if(!data.otherLanguageSpoken) invalidFields.push('Other Languages Spoken');
+                            }
+                            
+                           //  if(!data.experienceWithSustainableConstruction) invalidFields.push('Experience With Sustainable Construction');
+                           //  if(!data.experienceWithSustainableConstructionDesc) invalidFields.push('Describe Experience With Sustainable Construction');
+                           //  if(!data.experienceWithGreenTechnology) invalidFields.push('Experience With Green Technology');
+                           //  if(!data.experienceWithGreenTechnologyDesc) invalidFields.push('Describe Experience With Green Technology');
+                           //  if(!data.experienceWithwaterManagementProject) invalidFields.push('Experience With water Management Project');
+                           //  if(!data.experienceWithwaterManagementProjectDesc) invalidFields.push('Describe Experience With water Management Project');
+                           //  if(!data.experienceWithEngagementInitiatives) invalidFields.push('Experience With Engagement Initiatives');
+                           //  if(!data.experienceWithEngagementInitiativesDesc) invalidFields.push('Describe Experience With Engagement Initiatives');
+                           //  if(!data.erliestStartDate) invalidFields.push('Earliest Start Date');
+                           //  if(!data.preferedEmplymentType) invalidFields.push('Prefered Employment Type');
+                           //  if(!data.ref_1_name) invalidFields.push('Reference 1 - Name');
+                           //  if(!data.ref_1_relationship) invalidFields.push('Reference 1 - Relationship');
+                           //  if(!data.ref_1_company) invalidFields.push('Reference 1 - Company');
+                           //  if(!data.ref_1_phone) invalidFields.push('Reference 1 - Phone');
+                           //  if(!data.ref_1_email) invalidFields.push('Reference 1 - Email');
+                           //  if(!data.ref_2_name) invalidFields.push('Reference 2 - Name');
+                           //  if(!data.ref_2_relationship) invalidFields.push('Reference 2 - Relationship');
+                           //  if(!data.ref_2_company) invalidFields.push('Reference 2 - Company');
+                           //  if(!data.ref_2_phone) invalidFields.push('Reference 2 - Phone');
+                           //  if(!data.ref_2_email) invalidFields.push('Reference 2 - Email');
+                           //  if(!data.motivation) invalidFields.push('Motivation');
+
+                           
+                           //    motivation: document.getElementById('motivation') ? document.getElementById('motivation').value : null,
+                           //    shareYourDetails
 
                             // Add other fields as necessary
 
                             return invalidFields;
                         }
 
-                        function isValidBudget(budget) {
-                            // Convert budget to a number and check if it's greater than 20 Lakhs
-                            const numericBudget = parseFloat(budget.replace(/[^0-9.-]/g, ''));
-                            return numericBudget > 1900000; // 20 Lakhs in numeric form
-                        }
+                        // function isValidBudget(budget) {
+                        //     // Convert budget to a number and check if it's greater than 20 Lakhs
+                        //     const numericBudget = parseFloat(budget.replace(/[^0-9.-]/g, ''));
+                        //     return numericBudget > 1900000; // 20 Lakhs in numeric form
+                        // }
+
+                       
 
                         function submitData(data) {
+
+                          
+                          
+                           // console.log($("#document_form #resume").val());
                             fetch('<?= base_url('submit_survey'); ?>', {
                                 method: 'POST',
                                 headers: {
-                                    'Content-Type': 'application/json',
-                                    'X-Requested-With': 'XMLHttpRequest'
+                                    'Content-Type': 'multipart/json',
+                                    // 'X-Requested-With': 'XMLHttpRequest'
                                 },
                                 body: JSON.stringify(data)
                             })
@@ -655,13 +1242,14 @@
                                 if (data.success) {
                                     // Handle success, e.g., redirect to a thank-you page
                                     alert('Your survey has been successfully submitted. Thank you!');
+                                    console.log(data.data);
                                 } else {
                                     // Handle errors
                                     alert('There was an error submitting the form. Please try again.');
                                 }
                             })
                             .catch((error) => {
-                                console.error('Error:', error);
+                                console.log('Error:', error);
                             });
                         }
                      </script>
@@ -996,6 +1584,11 @@
       <script src="assets/js/jquery.min.js"></script>
       <script src="assets/js/swiper-bundle.min.js"></script>
       <script src="assets/js/custom.js" defer="defer"></script>
+      <script src="assets/js/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+
+
+
+
       <!--scripts end here-->
    </body>
 </html>
