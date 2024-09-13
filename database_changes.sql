@@ -1,4 +1,4 @@
-CREATE TABLE `survey_responses` (
+CREATE TABLE `employer_survey` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `full_name` varchar(50) DEFAULT NULL,
   `dob` date DEFAULT NULL,

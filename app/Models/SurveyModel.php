@@ -6,7 +6,7 @@ use CodeIgniter\Model;
  
 class SurveyModel extends Model
 {
-    protected $table = 'survey_responses';
+    protected $table = 'survey_aranea';
     protected $primaryKey = 'id';
     protected $allowedFields = [
         'full_name',
